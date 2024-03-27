@@ -1,0 +1,4055 @@
+ID: Q10
+Question: Do electric eels really produce electricity?
+Answer: Yes
+
+ID: Q11
+Question: The duckbilled platypus is only native to?
+Answer: Australia
+
+ID: Q12
+Question: The largest land mammal in the world is?
+Answer: The elephant
+
+ID: Q13
+Question: The largest living bird in the world is?
+Answer: The ostrich
+
+ID: Q14
+Question: Tigers are only native to?
+Answer: Asia
+
+ID: Q15
+Question: What breed of dog has a black tongue?
+Answer: Chow Chow
+
+ID: Q1
+Question: A baby cat is called?
+Answer: A kitten
+
+ID: Q242
+Question: A herbivore eats?
+Answer: Plants
+
+ID: Q243
+Question: A male sheep is called?
+Answer: A ram
+
+ID: Q244
+Question: Orangutans are only native to?
+Answer: Asia
+
+ID: Q245
+Question: The smallest bird in the world is?
+Answer: A humming bird
+
+ID: Q246
+Question: A tadpole turns into a...?
+Answer: Frog
+
+ID: Q247
+Question: The largest mammal in the world is?
+Answer: The blue whale
+
+ID: Q2
+Question: A baby cow is called?
+Answer: A calf
+
+ID: Q391
+Question: What is the fastest a race horse can run
+Answer: 55 mph / 88 km/h
+
+ID: Q392
+Question: An extinct bird often used as a symbol of human-induced extinction of species
+Answer: Dodo
+
+ID: Q393
+Question: Which of these is not a mixed dog breed?
+Answer: Siamese sausage dog
+
+ID: Q394
+Question: Which of these is NOT a horse
+Answer: Folly
+
+ID: Q395
+Question: What is the hybrid breed made of Poodles and Labradors called?
+Answer: Labradoodle
+
+ID: Q396
+Question: What is the world's fastest dog breed
+Answer: Greyhound
+
+ID: Q397
+Question: How fast can a swallow fly?
+Answer: 60 km/h
+
+ID: Q398
+Question: A platypus is special because...
+Answer: It has fur and lays eggs
+
+ID: Q399
+Question: What is the only bird capable of flying backwards?
+Answer: Humming birds
+
+ID: Q3
+Question: A baby horse is called?
+Answer: A foal
+
+ID: Q400
+Question: What colour is the polar bears' skin?
+Answer: Black
+
+ID: Q401
+Question: Which animal does not have the ability to use tools?
+Answer: Cat
+
+ID: Q402
+Question: How long can a snail sleep?
+Answer: three years
+
+ID: Q403
+Question: What is the world's most endangered bird?
+Answer: The giant ibis
+
+ID: Q404
+Question: What land animal can open its mouth the widest?
+Answer: Hippo
+
+ID: Q405
+Question: What are jellyfish 95% made of?
+Answer: Water
+
+ID: Q406
+Question: Which animal cannot jump?
+Answer: Elephants
+
+ID: Q407
+Question: How many bones do sharks have?
+Answer: zero
+
+ID: Q408
+Question: What was the lifespan of a Tyrannosaurus Rex?
+Answer: between 20-30 years
+
+ID: Q409
+Question: What is the smallest breed of dogs?
+Answer: chihuahua
+
+ID: Q410
+Question: Which is the largest member of cat family?
+Answer: tiger
+
+ID: Q411
+Question: What is the only mammal that can't jump?
+Answer: Elephant
+
+ID: Q412
+Question: Can frogs live in salt water?
+Answer: No
+
+ID: Q413
+Question: What is the biggest animal in the world?
+Answer: The blue whale
+
+ID: Q414
+Question: A full grown turkey has about how many feathers?
+Answer: 3500
+
+ID: Q415
+Question: Where is the heart of shrimp located?
+Answer: in its head
+
+ID: Q416
+Question: How many toes do (most) cats have?
+Answer: 18
+
+ID: Q417
+Question: Which dinosaur is a herbivore?
+Answer: Brontosaurus
+
+ID: Q418
+Question: What is the national animal of Scotland?
+Answer: Unicorn
+
+ID: Q419
+Question: The largest non-extinct fish is
+Answer: Whale shark
+
+ID: Q420
+Question: What's the largest known animal to have ever lived?
+Answer: Blue whale
+
+ID: Q421
+Question: What land mammals have the longest lifespan?
+Answer: Humans
+
+ID: Q422
+Question: Heaviest land mammal alive?
+Answer: Elephant
+
+ID: Q423
+Question: Which of these spiders venom is the most toxic to humans?
+Answer: Brazilian wandering spider
+
+ID: Q424
+Question: Which was the first domesticated animal?
+Answer: Goats
+
+ID: Q425
+Question: Which animal is the fastest?
+Answer: Peregrine falcon
+
+ID: Q426
+Question: What do camels store in their humps?
+Answer: Fat
+
+ID: Q427
+Question: What is a Pterodactyl?
+Answer: A prehistoric flying reptile
+
+ID: Q428
+Question: When can a newborn horse start walking
+Answer: After a few hours
+
+ID: Q429
+Question: What is a pony
+Answer: A small type of horse
+
+ID: Q430
+Question: What can you learn from looking at a horse's teeth
+Answer: How old it is
+
+ID: Q431
+Question: Which of these pets weighs the most
+Answer: Guinea Pig
+
+ID: Q432
+Question: Which of these is NOT a breed of cat
+Answer: Pomeranian
+
+ID: Q433
+Question: What is a typical prize for winning a horse show competition
+Answer: Rosette
+
+ID: Q434
+Question: A cat is said to have how many lives?
+Answer: 9
+
+ID: Q4
+Question: A carnivore eats?
+Answer: Meat
+
+ID: Q5
+Question: A caterpillar changes into a...?
+Answer: Butterfly
+
+ID: Q6
+Question: A female horse is called?
+Answer: A mare
+
+ID: Q7
+Question: A male cow is called?
+Answer: A  bull
+
+ID: Q875
+Question: How many times greater is the hearing of an average cat than that of a human
+Answer: 5
+
+ID: Q876
+Question: How many times greater is an average dog’s sense of smell than that of a human
+Answer: 1000
+
+ID: Q8
+Question: A male goat is called?
+Answer: A billy
+
+ID: Q9
+Question: A male horse is called?
+Answer: A stallion
+
+ID: Q16
+Question: The architect who designed The Guggenheim Museum in Bilbao?
+Answer: Frank Gehry
+
+ID: Q17
+Question: The Sagrada Família is a large church in Barcelona designed by?
+Answer: Gaudi
+
+ID: Q18
+Question: Who painted the Mona Lisa?
+Answer: Leonardo da Vinci
+
+ID: Q435
+Question: Which one is NOT one of the seven wonders of the world?
+Answer: Eiffel Tower
+
+ID: Q436
+Question: Which one is NOT one of the seven wonders of the world?
+Answer: Great Wall of China
+
+ID: Q437
+Question: Which one is the only remaining of the seven wonders of the world?
+Answer: Great Pyramid of Giza
+
+ID: Q438
+Question: Danish architect Jørn Utzon is known for this iconic building
+Answer: Sydney Opera House
+
+ID: Q439
+Question: American architect Frank Gehry is known for this iconic building
+Answer: Guggenheim Museum in New York
+
+ID: Q440
+Question: American architect Frank Lloyd Wright is known for this iconic building
+Answer: Guggenheim Museum in New York
+
+ID: Q441
+Question: In which city can you visit church The Sagrada Família?
+Answer: Barcelona
+
+ID: Q442
+Question: What kind of architecture is Notre Dame?
+Answer: Gothic
+
+ID: Q443
+Question: What kind of metal is the Eiffel Tower made of?
+Answer: Iron
+
+ID: Q444
+Question: Which one is the world's tallest building?
+Answer: Burj Khalifa, Dubai
+
+ID: Q445
+Question: What is Taj Mahal?
+Answer: A mausoleum
+
+ID: Q446
+Question: Which of these museums has a glass pyramid?
+Answer: Louvre
+
+ID: Q447
+Question: How many bricks are there in the New York Empire State building
+Answer: 10 million
+
+ID: Q448
+Question: What is the tallest building in Malaysia called?
+Answer: Petronas Towers
+
+ID: Q449
+Question: How long is the great wall of China?
+Answer: About 21.000 Kilometers
+
+ID: Q450
+Question: Who designed the Eiffel tower?
+Answer: Gustave Eiffel
+
+ID: Q451
+Question: Famous artwork by Piero Manzoni
+Answer: poo in a can
+
+ID: Q452
+Question: what do you get if you mix red & blue
+Answer: purple
+
+ID: Q453
+Question: what do you get if you mix yellow & blue
+Answer: green
+
+ID: Q454
+Question: what do you get if you mix red & yellow
+Answer: orange
+
+ID: Q455
+Question: Which deities gave artists inspiration according to Greek mythology?
+Answer: The Nine Muses
+
+ID: Q456
+Question: what are colors blue, red & yellow called?
+Answer: Primary colors
+
+ID: Q457
+Question: What is the complementary color of red?
+Answer: green
+
+ID: Q458
+Question: What is the complementary color of yellow?
+Answer: purple
+
+ID: Q459
+Question: Which museum is the Mona Lisa in?
+Answer: The Louvre
+
+ID: Q460
+Question: What is the painting La Gioconda more usually known as?
+Answer: The Mona Lisa
+
+ID: Q461
+Question: How do you make the color purple?
+Answer: Red and blue
+
+ID: Q462
+Question: Who painted Mona Lisa?
+Answer: Leonardo Da Vinci
+
+ID: Q463
+Question: What animal does the statue named Maman, by Louise Bourgeois look like?
+Answer: Spider
+
+ID: Q464
+Question: What is the complementary color of blue?
+Answer: Orange
+
+ID: Q465
+Question: This iconic chair designed by Danish architect Arne Jacobsen
+Answer: the Swan
+
+ID: Q466
+Question: This iconic chair designed by German American architect Mies van der Rohe
+Answer: The Barcelona chair
+
+ID: Q467
+Question: If you mix red, yellow and blue light you get?
+Answer: White light
+
+ID: Q877
+Question: Which company has an arrow hidden in its logo?
+Answer: FedEx
+
+ID: Q878
+Question: Catalan architect known for "Parc Güell" & "La Sagrada Familia"
+Answer: Antoni Gaudí
+
+ID: Q879
+Question: French architect known as one of the pioneers of Modernism
+Answer: Le Corbusier
+
+ID: Q880
+Question: Which one of these is a nickname for a famous London skyscraper?
+Answer: The Gherkin
+
+ID: Q881
+Question: Mexican painter known for her many surrealilst self-portraits
+Answer: Frida Kahlo
+
+ID: Q882
+Question: Spanish artist known as one of the founders of cubism, known for "Guernica"
+Answer: Picasso
+
+ID: Q883
+Question: Spanish surrealist artist known for melting clocks and elephants on spider legs
+Answer: Salvador Dalí
+
+ID: Q884
+Question: Dutch expressionist painter known for "Vase With Twelve Sunflowers"
+Answer: Vincent Van Gogh
+
+ID: Q885
+Question: French impressionist painter, known for his water lilies
+Answer: Claude Monet
+
+ID: Q886
+Question: Famous artist known for his popart portraits of Marilyn Monroe
+Answer: Andy Warhol
+
+ID: Q887
+Question: An artist famous for street art stencils
+Answer: Banksy
+
+ID: Q888
+Question: Who painted Starry Night?
+Answer: Vincent van Gogh
+
+ID: Q889
+Question: This iconic car brand's logo is a bull
+Answer: Lamborghini
+
+ID: Q890
+Question: This iconic car brand's logo is a horse
+Answer: Ferrari
+
+ID: Q891
+Question: Which company has a mermaid in it's logo
+Answer: Starbucks
+
+ID: Q892
+Question: Which company has a panda in it's logo
+Answer: WWF
+
+ID: Q893
+Question: Which iconic company logo is known for it's golden arches
+Answer: McDonald's
+
+ID: Q894
+Question: Who designed the logo of Chupa Chups lollipop brand?
+Answer: Salvador Dalí
+
+ID: Q468
+Question: A polish in which only the tip of the nail is painted
+Answer: French Manicure
+
+ID: Q469
+Question: Expensive high-end fashion that is made by hand
+Answer: Haute couture
+
+ID: Q470
+Question: Mass produced clothes that can be bought in ordinary shops
+Answer: High Street Fashion
+
+ID: Q471
+Question: Cosmetic invented by Max Factor in 1930 to make lips shiny and glossy for films.
+Answer: Lip gloss
+
+ID: Q472
+Question: Coco Chanel famously created
+Answer: Little black dresses
+
+ID: Q473
+Question: Which Diamonds are the most expensive?
+Answer: Red diamonds
+
+ID: Q474
+Question: What is the biggest diamond in the British crown jewels?
+Answer: Great Star of Africa
+
+ID: Q475
+Question: What is the name of Rihanna's makeup brand and fashion house?
+Answer: Fenty
+
+ID: Q476
+Question: What is the most common item of clothing in the world?
+Answer: T shirts
+
+ID: Q477
+Question: Where do the letters come from in the shop H&M?
+Answer: Hennes & Mauritz
+
+ID: Q478
+Question: Who is not a previous editor-in-chief of American Vogue?
+Answer: Michele Obama
+
+ID: Q479
+Question: Which fashion house was founded first?
+Answer: Prada
+
+ID: Q480
+Question: In January, which season is showing during Fashion Week?
+Answer: Spring/Summer
+
+ID: Q481
+Question: Fashion retailer H&M was founded in which European country?
+Answer: Sweden
+
+ID: Q482
+Question: Fashion retailer Zara was founded in which European country?
+Answer: Spain
+
+ID: Q483
+Question: Which Diamond quality factor is the most valuable?
+Answer: Color
+
+ID: Q484
+Question: Who is behind the cosmetics brand Kylies Cosmetics?
+Answer: Kylie Jenner
+
+ID: Q485
+Question: What are the names of Supermodel Gigi Hadids model siblings
+Answer: Bella & Anwar Hadid
+
+ID: Q71
+Question: The fashion Magazine Harper's Bazaar was first published in?
+Answer: 1867
+
+ID: Q895
+Question: Who made the famous no.5 perfume?
+Answer: Chanel
+
+ID: Q896
+Question: This road is famous for their bespoke tailors
+Answer: Savile Row
+
+ID: Q897
+Question: If you're into skateboarding you know this brand
+Answer: Thrasher
+
+ID: Q898
+Question: A fashion brand that is famous for the red sole shoes
+Answer: Christian Louboutin
+
+ID: Q899
+Question: Which fashion brand has a crocodile as it's logo
+Answer: Lacoste
+
+ID: Q900
+Question: He was the first man on the cover of Vogue
+Answer: Harry Styles
+
+ID: Q901
+Question: What year was the bikini invented?
+Answer: 1946
+
+ID: Q902
+Question: What year was the denim jean created?
+Answer: 1873
+
+ID: Q903
+Question: How many carats is pure gold?
+Answer: 24
+
+ID: Q486
+Question: Which is the most protein rich?
+Answer: Edamame beans
+
+ID: Q487
+Question: Where does vanilla come from?
+Answer: An orchid
+
+ID: Q488
+Question: From a botanical point of view, the strawberry is...
+Answer: a fruit
+
+ID: Q489
+Question: From a botanical point of view, the avocado is...
+Answer: a berry
+
+ID: Q490
+Question: From a botanical point of view, the peanut is...
+Answer: a legume
+
+ID: Q491
+Question: What is the main ingredient of an omelette?
+Answer: Eggs
+
+ID: Q492
+Question: Where was Hawaiian pizza invented?
+Answer: Canada
+
+ID: Q493
+Question: What is the most stolen food in the world ?
+Answer: Cheese
+
+ID: Q494
+Question: Which country consumes the most tea per person?
+Answer: Turkey
+
+ID: Q495
+Question: What food is used as the base of guacamole?
+Answer: avocado
+
+ID: Q496
+Question: What fruit do raisins come from?
+Answer: grapes
+
+ID: Q497
+Question: Which country invented ice cream?
+Answer: China
+
+ID: Q498
+Question: Which nuts are used in marzipan?
+Answer: Almonds
+
+ID: Q499
+Question: An affogato is an Italian dessert of coffee and what ingredient?
+Answer: vanilla ice cream
+
+ID: Q500
+Question: Which is the most expensive spice in the world by weight?
+Answer: saffron
+
+ID: Q501
+Question: What do the Ms in M & M stand for?
+Answer: Mars & Murrie
+
+ID: Q502
+Question: What is surströmming?
+Answer: Awful smelling fermented herring
+
+ID: Q503
+Question: Which fruit is high in potassium?
+Answer: Banana
+
+ID: Q504
+Question: Where was the croissant invented?
+Answer: Austria
+
+ID: Q505
+Question: What is the most eaten food in the world?
+Answer: Rice
+
+ID: Q904
+Question: Famous Japanese dish often made from rice, seaweed and raw fish
+Answer: Sushi
+
+ID: Q210
+Question: What do the languages Hebrew, Arabic and Mandarin have in common?
+Answer: They are written right to left
+
+ID: Q211
+Question: What is the last word in the Declaration of Independence?
+Answer: Honor
+
+ID: Q342
+Question: Most Swiss chocolate is consumed by...?
+Answer: The Swiss
+
+ID: Q343
+Question: Which American magazine for teenagers was first published in 1944?
+Answer: Seventeen
+
+ID: Q344
+Question: Who has the highest per capita rate of chocolate consumption world wide?
+Answer: The Chinese
+
+ID: Q506
+Question: Once a year, you're allowed to prank people and shout this:
+Answer: April's fool
+
+ID: Q507
+Question: The popsicle was invented by a person who was
+Answer: 11 years old
+
+ID: Q508
+Question: Who kills the most people?
+Answer: Cows
+
+ID: Q509
+Question: What date is Halloween?
+Answer: October 31
+
+ID: Q510
+Question: What date is Valentine's Day?
+Answer: February 14
+
+ID: Q511
+Question: Where was the world's largest wave surfed?
+Answer: Praia do Norte, Portugal
+
+ID: Q512
+Question: what's the record for longest time breath held underwater?
+Answer: 24 min 37 seconds
+
+ID: Q513
+Question: How often is the Eiffel tower painted?
+Answer: Every 7 year
+
+ID: Q514
+Question: How long does it take to paint the whole Eiffel tower
+Answer: Up to 3 years
+
+ID: Q515
+Question: In what country was Mobile phone throwing started as an official sport?
+Answer: Finland
+
+ID: Q516
+Question: What year was Mobile phone throwing started as an official sport?
+Answer: 2000
+
+ID: Q517
+Question: What was the creator of M&Ms allergic to?
+Answer: Peanuts
+
+ID: Q518
+Question: What was the profession of the cotton candy's inventor
+Answer: A dentist
+
+ID: Q519
+Question: What is brontophobia?
+Answer: The fear of thunder
+
+ID: Q520
+Question: True or false: You can sneeze in your sleep?
+Answer: FALSE
+
+ID: Q521
+Question: What shape is a stop sign?
+Answer: Octagon
+
+ID: Q522
+Question: Who is the largest tire manufacturer
+Answer: Lego
+
+ID: Q523
+Question: What Colour is an airplane's black box?
+Answer: Orange
+
+ID: Q524
+Question: How long would it take to visit all Australian beaches ?
+Answer: More than 27 years
+
+ID: Q525
+Question: A baby is born around the world..
+Answer: Every three seconds
+
+ID: Q526
+Question: What is the darkest time of night?
+Answer: Midnight
+
+ID: Q527
+Question: What is arachibutyrophobia?
+Answer: a fear of being choked by peanut butter
+
+ID: Q528
+Question: What does LOL stand for?
+Answer: Laughing Out Loud
+
+ID: Q529
+Question: What was the first game played on the moon?
+Answer: Golf
+
+ID: Q530
+Question: Robert Pershing Wadlow was the tallest known man to have lived. How tall was he?
+Answer: 2.72 m
+
+ID: Q531
+Question: What animal was the honourary mayor of Talkeetna in Alaska, USA in 1997?
+Answer: A cat
+
+ID: Q532
+Question: How long would it take to drive to outer space, in a car going 95kmh/60mph?
+Answer: Approx. 1 hour
+
+ID: Q905
+Question: How many e's do you see in this sentence?
+Answer: 6
+
+ID: Q906
+Question: How many folds does a chef’s toque contain?
+Answer: 100
+
+ID: Q907
+Question: When was the ebook invented?
+Answer: 1971
+
+ID: Q100
+Question: What is Donald Duck called in Spain?
+Answer: El Pato Donald
+
+ID: Q101
+Question: What is Donald Duck’s middle name?
+Answer: Fauntleroy
+
+ID: Q102
+Question: What is Harry Potter’s birthday?
+Answer: 31st of July
+
+ID: Q103
+Question: What is Looney Tunes?
+Answer: cartoon series
+
+ID: Q104
+Question: What is Spiderman's name?
+Answer: Peter Parker
+
+ID: Q105
+Question: What is Superman's real name?
+Answer: Kal-El
+
+ID: Q106
+Question: What is the name of the villain of "Star Wars"?
+Answer: Darth Vader
+
+ID: Q107
+Question: What is the name of the headmaster at Hogwarts?
+Answer: Albus Dumbledore
+
+ID: Q108
+Question: What kind of novels are the Harry Potter books?
+Answer: fantasy
+
+ID: Q109
+Question: What kind of owl is Harry Potter’s Hedwig?
+Answer: Snow Owl
+
+ID: Q110
+Question: What means of transportation does "Doctor Who" have?
+Answer: Telephone Booth
+
+ID: Q111
+Question: What planet are The Transformers from?
+Answer: Cybertron
+
+ID: Q112
+Question: What was the author’s name on the first Harry Potter book?
+Answer: Joanne Rowling
+
+ID: Q113
+Question: What’s the name of the sport they play in Harry Potter?
+Answer: Quidditch
+
+ID: Q114
+Question: Where did Harry Potter sleep?
+Answer: In a room under the stairs
+
+ID: Q115
+Question: Where did J.K. Rowling write her first book?
+Answer: In cafés
+
+ID: Q116
+Question: Where does "The Lord of the Rings" take place?
+Answer: Middle Earth
+
+ID: Q117
+Question: Where does Superman live?
+Answer: Metropolis
+
+ID: Q118
+Question: Where in Japan is the Nintendo company based?
+Answer: Kyoto
+
+ID: Q119
+Question: Which alien race appears in "Star Trek"?
+Answer: Klingons
+
+ID: Q120
+Question: Which author was one of the first sci-fi writers?
+Answer: Jules Verne
+
+ID: Q121
+Question: Which cartoon character likes to eat spinach?
+Answer: Popeye
+
+ID: Q122
+Question: Which color is The Hulk?
+Answer: Green
+
+ID: Q123
+Question: Which superhero has a hammer and controls lightning?
+Answer: Thor
+
+ID: Q124
+Question: Which superhero really depends on high tech?
+Answer: Iron Man
+
+ID: Q125
+Question: Which team is not a real team?
+Answer: Lilo & Stash
+
+ID: Q126
+Question: Which writer has the same birthday as Harry Potter?
+Answer: J.K. Rowling
+
+ID: Q127
+Question: Who directed the movie "Thor"?
+Answer: Kenneth Brannagh
+
+ID: Q128
+Question: Who directed the movie Batman "The Dark Knight"?
+Answer: Christopher Nolan
+
+ID: Q129
+Question: Who is Bart Simpson´s best friend?
+Answer: Milhouse Van Houten
+
+ID: Q130
+Question: Who is Spiderman always fighting?
+Answer: The Green Goblin
+
+ID: Q131
+Question: Who is Superman´s girlfriend?
+Answer: Lois Lane
+
+ID: Q132
+Question: Who is the main character in "Star Wars"?
+Answer: Luke Skywalker
+
+ID: Q133
+Question: Who is the voice behind Homer Simpson?
+Answer: Dan Castellaneta
+
+ID: Q134
+Question: Who is Thor´s brother?
+Answer: Loki
+
+ID: Q135
+Question: Who is Thor´s father?
+Answer: Odin
+
+ID: Q136
+Question: Who played Spiderman in the first three movies?
+Answer: Toby Maguire
+
+ID: Q137
+Question: Who played The Joker in the Batman movie "The Dark Knight"?
+Answer: Heath Ledger
+
+ID: Q138
+Question: Who played Wolverine in the movie "X-Men"?
+Answer: Hugh Jackman
+
+ID: Q139
+Question: Who plays Snape in the Harry Potter movies?
+Answer: Alan Rickman
+
+ID: Q140
+Question: Who plays William Turner in the "Pirates of the Caribbean" movies?
+Answer: Orlando Bloom
+
+ID: Q141
+Question: Who said: ”I thought I saw a pussycat”
+Answer: Tweety Bird
+
+ID: Q142
+Question: Who trained Luke Skywalker?
+Answer: Yoda
+
+ID: Q143
+Question: Who wants to kill Harry Potter?
+Answer: Voldemort
+
+ID: Q144
+Question: Who wrote the book "The Lord of the Rings"?
+Answer: Tolkien
+
+ID: Q145
+Question: Why was the actor who played Dumbledore in Harry Potter replaced?
+Answer: he died
+
+ID: Q256
+Question: How many bits does it take to make a byte?
+Answer: 8
+
+ID: Q257
+Question: Scooby-doo likes to eat what...?
+Answer: Snacks
+
+ID: Q258
+Question: What color is Batman's suit?
+Answer: Black
+
+ID: Q259
+Question: How many nephews does Donald Duck have?
+Answer: 3
+
+ID: Q260
+Question: What is Batman's secret hiding placing called?
+Answer: The Bat Cave
+
+ID: Q261
+Question: Which animal was Walt Disney afraid of?
+Answer: Mice
+
+ID: Q262
+Question: Which planet does Superman come from?
+Answer: Krypton
+
+ID: Q263
+Question: Who becomes The Hulk when angered?
+Answer: Bruce Banner
+
+ID: Q264
+Question: Batman's butler was called what?
+Answer: Alfred
+
+ID: Q265
+Question: Superman is known as the man of?
+Answer: Steel
+
+ID: Q533
+Question: Japanese comic books genre
+Answer: Manga
+
+ID: Q534
+Question: AR stands for
+Answer: Augmented Reality
+
+ID: Q535
+Question: VR stands for
+Answer: Virtual Reality
+
+ID: Q536
+Question: Musical instrument that plays an important role in the game Zelda
+Answer: Ocarina
+
+ID: Q537
+Question: What does GGWP stand for?
+Answer: Good Game, Well Played
+
+ID: Q538
+Question: Most valuable crypto currency
+Answer: Bitcoin
+
+ID: Q539
+Question: What does G.O.A.T. stand for
+Answer: Greatest of All Times
+
+ID: Q540
+Question: FOMO stands for
+Answer: Fear Of Missing Out
+
+ID: Q541
+Question: Stars in Social Media is often called
+Answer: Influencers
+
+ID: Q542
+Question: Social Media is also known as
+Answer: SoMe
+
+ID: Q543
+Question: What does AFK stand for?
+Answer: Away From Keyboard
+
+ID: Q544
+Question: The act of publicly revealing private personal information of others on the internet
+Answer: Doxxing
+
+ID: Q545
+Question: What does the Japanese Slang word Chibi mean?
+Answer: small cute thing
+
+ID: Q546
+Question: What's a bug in video games
+Answer: An error
+
+ID: Q547
+Question: What's a glitch in video games?
+Answer: An error in a game that allows you to exploit it
+
+ID: Q548
+Question: What's lagging in video games
+Answer: Slow performance
+
+ID: Q549
+Question: The art of dressing up as fantasy characters
+Answer: Cosplay
+
+ID: Q550
+Question: When are you born if your zodiac sign is Aries?
+Answer: March or April
+
+ID: Q551
+Question: When are you born if your zodiac sign is Taurus?
+Answer: April or May
+
+ID: Q552
+Question: When are you born if your zodiac sign is Gemini?
+Answer: May or June
+
+ID: Q553
+Question: When are you born if your zodiac sign is Cancer?
+Answer: June or July
+
+ID: Q554
+Question: When are you born if your zodiac sign is Leo?
+Answer: July or August
+
+ID: Q555
+Question: When are you born if your zodiac sign is Virgo?
+Answer: August or September
+
+ID: Q556
+Question: When are you born if your zodiac sign is Libra?
+Answer: September or October
+
+ID: Q557
+Question: When are you born if your zodiac sign is Scorpio?
+Answer: October or November
+
+ID: Q558
+Question: When are you born if your zodiac sign is Sagittarius?
+Answer: November or December
+
+ID: Q559
+Question: When are you born if your zodiac sign is Capricorn?
+Answer: December or January
+
+ID: Q560
+Question: When are you born if your zodiac sign is Aquarius?
+Answer: January or February
+
+ID: Q561
+Question: When are you born if your zodiac sign is Pisces?
+Answer: February or March
+
+ID: Q562
+Question: As of June 2021 who has the most liked Instagram post with more than 55 mio likes?
+Answer: An Egg
+
+ID: Q563
+Question: With over 222 million units sold, what is Apple’s highest-selling iPhone model?
+Answer: iPhone 6/6 Plus
+
+ID: Q564
+Question: Which iPhone was the first to have a selfie camera?
+Answer: iPhone 4
+
+ID: Q565
+Question: What is the technology Bluetooth named after?
+Answer: King Harold Bluetooth of Denmark
+
+ID: Q566
+Question: What is a "T9"
+Answer: An (older) mobile phone keyboard
+
+ID: Q567
+Question: Which one of these video games is the oldest?
+Answer: Pac-Man
+
+ID: Q568
+Question: What is Super Mario's job?
+Answer: Plumber
+
+ID: Q569
+Question: Which game is the newest?
+Answer: MovieStarPlanet 2
+
+ID: Q570
+Question: Who is the richest mangaka (manga author) in 2021 ?
+Answer: Eiichiro Oda (One Piece)
+
+ID: Q571
+Question: What is a floppy disk?
+Answer: A device used to store computer data
+
+ID: Q572
+Question: The true identity of Zorro?
+Answer: Don Diego de la Vega
+
+ID: Q573
+Question: What is the answer to life, universe and everything
+Answer: 42
+
+ID: Q574
+Question: The WandaVision TV show was set in which town?
+Answer: Westview
+
+ID: Q575
+Question: What is netiquette?
+Answer: To be nice when you are online
+
+ID: Q576
+Question: Who was the smurf's enemy
+Answer: Gargamel
+
+ID: Q577
+Question: Where did the saying "Wakanda forever" come from?
+Answer: Black Panther
+
+ID: Q578
+Question: Anna & Elsa are princesses in this Disney movie
+Answer: Frozen
+
+ID: Q579
+Question: What do you have if you are scared of being without your mobile phone?
+Answer: Nomophobia
+
+ID: Q72
+Question: Bruce Wayne is also?
+Answer: Batman
+
+ID: Q73
+Question: Buzz Lightyear is a character from which movie?
+Answer: Toy Story
+
+ID: Q74
+Question: Captain America´s real name?
+Answer: Steven Rogers
+
+ID: Q75
+Question: Captain America´s sidekick?
+Answer: Bucky
+
+ID: Q76
+Question: Han Solo´s sidekick?
+Answer: Chewbacca
+
+ID: Q77
+Question: Han Solo´s starship?
+Answer: Millennium Falcon
+
+ID: Q78
+Question: How many claws does Wolverine have?
+Answer: 6
+
+ID: Q79
+Question: How many Harry Potter novels did J. K. Rowling write?
+Answer: 7
+
+ID: Q80
+Question: In "The Matrix", the real world is actually...?
+Answer: A simulation
+
+ID: Q81
+Question: In Pokemon, what does Pikachu evolve into?
+Answer: Raichu
+
+ID: Q82
+Question: In which country was most of "Lord of the Rings" filmed?
+Answer: New Zealand
+
+ID: Q83
+Question: Iron Man is also?
+Answer: Tony Stark
+
+ID: Q84
+Question: Luke Skywalker is a...?
+Answer: Jedi Knight
+
+ID: Q85
+Question: Magneto can control?
+Answer: Metal
+
+ID: Q86
+Question: Name the third "Pirates of the Caribbean" movie?
+Answer: At World’s End
+
+ID: Q87
+Question: Pokemon is an abbreviation of what?
+Answer: Pocket Monster
+
+ID: Q88
+Question: Road Runner is always chased by what?
+Answer: a coyote
+
+ID: Q89
+Question: She is a vampire slayer. What’s her name?
+Answer: Buffy Summers
+
+ID: Q908
+Question: Who is also called "The Good Duck Artist"
+Answer: Carl Barks
+
+ID: Q909
+Question: What's the name of the new supersonic airplane that can cross the Atlantic in 3½ hours
+Answer: Boom Overture
+
+ID: Q90
+Question: Superman is also?
+Answer: Clark Kent
+
+ID: Q910
+Question: The cuteness culture in Japan
+Answer: Kawaii
+
+ID: Q911
+Question: Japanese animation film studio known for "My Neighbor Totoro" and "Ponyo"
+Answer: Studio Ghibli
+
+ID: Q912
+Question: Originally a Japanese entertainment form where people sing along to recorded music
+Answer: Karaoke
+
+ID: Q913
+Question: This word originally came from Japanese, literally meaning “pictograph.”
+Answer: Emoji
+
+ID: Q914
+Question: What number is on Lighting McQueen's car?
+Answer: 95
+
+ID: Q915
+Question: How many brothers does Prince Hans of the Southern Isles have in "Frozen"?
+Answer: 12
+
+ID: Q91
+Question: Teenage Mutant Ninja Turtles are Leonardo, Raphael, Michelangelo and...?
+Answer: Donatello
+
+ID: Q92
+Question: The actor who plays Han Solo in "Star Wars" also plays...?
+Answer: Indiana Jones
+
+ID: Q93
+Question: The Fantastic Four are Mr. Fantastic, The Flame, Invisible Woman and...?
+Answer: The Thing
+
+ID: Q94
+Question: The line, “May the Force be with you” is from what movie?
+Answer: Star Wars
+
+ID: Q95
+Question: The Simpsons annoying neighbour is?
+Answer: Ned Flanders
+
+ID: Q96
+Question: The Star Wars Death Star is a?
+Answer: Battle Station
+
+ID: Q97
+Question: Vampires need this to survive?
+Answer: Blood
+
+ID: Q98
+Question: What are the colours of the House of Ravenclaw?
+Answer: blue & bronze
+
+ID: Q99
+Question: What are the robots in "Star Wars" called?
+Answer: C3PO & R2D2
+
+ID: Q146
+Question: Edinburgh is the capital of?
+Answer: Scotland
+
+ID: Q147
+Question: The Eiffel Tower is in?
+Answer: Paris
+
+ID: Q148
+Question: The largest island that is not a continent?
+Answer: Greenland
+
+ID: Q149
+Question: The second largest country in the world?
+Answer: Canada
+
+ID: Q266
+Question: Baghdad is the capital of?
+Answer: Iraq
+
+ID: Q267
+Question: Canberra is the capital of?
+Answer: Australia
+
+ID: Q268
+Question: Jerusalem is the capital of?
+Answer: Israel
+
+ID: Q269
+Question: Kabul is the capital of?
+Answer: Afghanistan
+
+ID: Q270
+Question: New Delhi is the capital of?
+Answer: India
+
+ID: Q271
+Question: On which continent is Kenya located?
+Answer: Africa
+
+ID: Q272
+Question: On which continent is the mountain Kilimanjaro located?
+Answer: Africa
+
+ID: Q273
+Question: On which continent is Victoria Falls located?
+Answer: Africa
+
+ID: Q274
+Question: Ottawa is the capital of?
+Answer: Canada
+
+ID: Q275
+Question: The 2nd largest island in the world is?
+Answer: Madagascar
+
+ID: Q276
+Question: The capital of China is?
+Answer: Beijing
+
+ID: Q277
+Question: The capital of Japan is?
+Answer: Tokyo
+
+ID: Q278
+Question: The capital of USA is?
+Answer: Washington DC
+
+ID: Q279
+Question: The deepest lake in the world is?
+Answer: Baikal
+
+ID: Q280
+Question: The highest mountain in USA?
+Answer: Mount McKinley
+
+ID: Q281
+Question: The largest continent in the world is?
+Answer: Asia
+
+ID: Q282
+Question: The largest island in the world is?
+Answer: Greenland
+
+ID: Q283
+Question: The largest lake in the world is...?
+Answer: The Caspian Sea
+
+ID: Q284
+Question: The longest mountain range in UK?
+Answer: The Pennines
+
+ID: Q285
+Question: The longest river in South America?
+Answer: The Amazonas
+
+ID: Q286
+Question: The longest river in UK?
+Answer: The Severn
+
+ID: Q287
+Question: The smallest continent in the world is?
+Answer: Oceania
+
+ID: Q288
+Question: Vienna is the capital of?
+Answer: Austria
+
+ID: Q289
+Question: Wellington is the capital of?
+Answer: New Zealand
+
+ID: Q290
+Question: What is the capital of Argentina?
+Answer: Buenos Aires
+
+ID: Q291
+Question: What is the capital of Australia?
+Answer: Canberra
+
+ID: Q292
+Question: What is the capital of Brazil?
+Answer: Brasilia
+
+ID: Q293
+Question: What is the capital of India?
+Answer: Delhi
+
+ID: Q294
+Question: What is the capital of Thailand?
+Answer: Bangkok
+
+ID: Q295
+Question: What is the capital of Vietnam?
+Answer: Hanoi
+
+ID: Q296
+Question: Which mountain is the highest?
+Answer: Mount Everest
+
+ID: Q297
+Question: The smallest country in the world?
+Answer: Vatican City
+
+ID: Q298
+Question: Islamabad is the capital of?
+Answer: Pakistan
+
+ID: Q299
+Question: On which continent is Niagara Falls located?
+Answer: North America
+
+ID: Q300
+Question: On which continent is Sudan located?
+Answer: Africa
+
+ID: Q301
+Question: Rome is the capital of?
+Answer: Italy
+
+ID: Q302
+Question: The deepest lake in the world is...?
+Answer: Lake Baikal
+
+ID: Q303
+Question: The highest mountain in Europe is?
+Answer: Mont Blanc
+
+ID: Q304
+Question: The longest mountain range in South America?
+Answer: The Andes
+
+ID: Q305
+Question: The lowest point in North America is....?
+Answer: Death Valley
+
+ID: Q306
+Question: What is the capital of Norway?
+Answer: Oslo
+
+ID: Q307
+Question: Which country has most inhabitants?
+Answer: China
+
+ID: Q308
+Question: Which country has the largest area?
+Answer: Russia
+
+ID: Q580
+Question: What is 5,500 miles (8,850 km) long?
+Answer: Ming Dynasty's Great Wall of China
+
+ID: Q581
+Question: What's so special about Easter Island?
+Answer: The Statues
+
+ID: Q582
+Question: Copenhagen is the capital of?
+Answer: Denmark
+
+ID: Q583
+Question: Dublin is the capital of?
+Answer: Ireland
+
+ID: Q584
+Question: London is the capital of?
+Answer: England
+
+ID: Q585
+Question: Stockholm is the capital of?
+Answer: Sweden
+
+ID: Q586
+Question: Oslo is the capital of?
+Answer: Norway
+
+ID: Q587
+Question: Helsinki is the capital of?
+Answer: Finland
+
+ID: Q588
+Question: Washington is the capital of?
+Answer: The United States of America
+
+ID: Q589
+Question: Paris is the capital of?
+Answer: France
+
+ID: Q590
+Question: Madrid is the capital of?
+Answer: Spain
+
+ID: Q591
+Question: Berlin is the capital of?
+Answer: Germany
+
+ID: Q592
+Question: Canberra is the capital of?
+Answer: Australia
+
+ID: Q593
+Question: Wellington is the capital of?
+Answer: New Zealand
+
+ID: Q594
+Question: Amsterdam is the capital of?
+Answer: Netherlands
+
+ID: Q595
+Question: Ottawa is the capital of?
+Answer: Canada
+
+ID: Q596
+Question: Warsaw is the capital of?
+Answer: Poland
+
+ID: Q597
+Question: Ankara is the capital of?
+Answer: Turkey
+
+ID: Q598
+Question: The capital of Denmark?
+Answer: Copenhagen
+
+ID: Q599
+Question: The capital of Ireland?
+Answer: Dublin
+
+ID: Q600
+Question: The capital of England?
+Answer: London
+
+ID: Q601
+Question: The capital of Sweden?
+Answer: Stockholm
+
+ID: Q602
+Question: The capital of Norway?
+Answer: Oslo
+
+ID: Q603
+Question: The capital of the United States of America?
+Answer: Washington DC
+
+ID: Q604
+Question: The capital of Finland?
+Answer: Helsinki
+
+ID: Q605
+Question: The capital of France?
+Answer: Paris
+
+ID: Q606
+Question: The capital of Spain?
+Answer: Madrid
+
+ID: Q607
+Question: The capital of Germany?
+Answer: Berlin
+
+ID: Q608
+Question: The capital of Australia?
+Answer: Canberra
+
+ID: Q609
+Question: The capital of Canada?
+Answer: Ottawa
+
+ID: Q610
+Question: The capital of New Zealand?
+Answer: Wellington
+
+ID: Q611
+Question: The capital of Turkey?
+Answer: Ankara
+
+ID: Q612
+Question: Where is Stonehenge located?
+Answer: England
+
+ID: Q613
+Question: Which is the world's largest active volcano?
+Answer: Mauna Loa
+
+ID: Q614
+Question: What is the capital city of Peru
+Answer: Lima
+
+ID: Q615
+Question: Where is the Great Pyramid of Giza?
+Answer: Egypt
+
+ID: Q616
+Question: What is the Captial city of Denmark
+Answer: Copenhagen
+
+ID: Q617
+Question: Which country has the oldest flag in the world?
+Answer: Denmark
+
+ID: Q618
+Question: What language is spoken in Brazil?
+Answer: Portuguese
+
+ID: Q619
+Question: How long is the longest place name in the world?
+Answer: 85 letters long
+
+ID: Q620
+Question: What’s the smallest country in the world?
+Answer: The Vatican
+
+ID: Q621
+Question: Which city is situated on two continents?
+Answer: Istanbul
+
+ID: Q622
+Question: In which country is Machu Picchu located?
+Answer: Peru
+
+ID: Q623
+Question: Which country is not a monarchy
+Answer: France
+
+ID: Q916
+Question: How many active volcanoes are there on Earth?
+Answer: 1500
+
+ID: Q917
+Question: How many timezones does France have?
+Answer: 12
+
+ID: Q918
+Question: How many percent of the ocean has been explored?
+Answer: 5
+
+ID: Q311
+Question: How much of the human body is water?
+Answer: 60-70%
+
+ID: Q624
+Question: How much nose hair does an average person grow in a lifetime?
+Answer: 2 meters
+
+ID: Q625
+Question: Does your heart stop beating when you sneeze?
+Answer: No
+
+ID: Q626
+Question: The world’s first vaccine was produced to protect against
+Answer: Smallpox
+
+ID: Q627
+Question: Where is urine produced?
+Answer: The kidneys
+
+ID: Q628
+Question: Which color can the human eye see most nuances of
+Answer: Green
+
+ID: Q629
+Question: What is the main source of energy in human body?
+Answer: Carbohydrates
+
+ID: Q630
+Question: What does the word Yoga mean?
+Answer: Union
+
+ID: Q631
+Question: Which part(s) of the body grow with age?
+Answer: The nose and ears
+
+ID: Q632
+Question: What is the hardest substance in human body?
+Answer: Tooth enamel
+
+ID: Q633
+Question: What is the fastest muscle in the human body?
+Answer: Eye
+
+ID: Q634
+Question: What is the rarest eye color in the world?
+Answer: Green
+
+ID: Q635
+Question: Where is the body's smallest bone located?
+Answer: In the ear
+
+ID: Q636
+Question: Why do bruises change color?
+Answer: Because they're losing oxygen
+
+ID: Q637
+Question: What is the largest organ in human body?
+Answer: Skin
+
+ID: Q638
+Question: Which one is a blood type
+Answer: AB
+
+ID: Q639
+Question: What is DNA?
+Answer: The molecule that contains genetic code
+
+ID: Q640
+Question: What is the most common cause of hiccups ?
+Answer: Eating or drinking too fast
+
+ID: Q641
+Question: What is the largest organ in the human body?
+Answer: Skin
+
+ID: Q642
+Question: COVID stands for
+Answer: Corona Virus Disease
+
+ID: Q919
+Question: How many teeth does an adult human have?
+Answer: 32
+
+ID: Q152
+Question: Christopher Columbus was born in?
+Answer: 1451
+
+ID: Q153
+Question: In which country were many of the Kings named Louis?
+Answer: France
+
+ID: Q154
+Question: What made the Titanic sink?
+Answer: Iceberg
+
+ID: Q155
+Question: Who said “I am the President of the United States, and I am not going to eat anymore broccoli?”
+Answer: George H.W. Bush
+
+ID: Q309
+Question: When did the Titanic sink?
+Answer: 1912
+
+ID: Q310
+Question: Which European city was divided by a wall from 1961 to 1989?
+Answer: Berlin
+
+ID: Q643
+Question: Richard I, King of England is better known as...
+Answer: Richard Lionheart
+
+ID: Q644
+Question: The name of the plague that hit Europe in the 14th Century
+Answer: The Black Death
+
+ID: Q645
+Question: Lady Diana, mother of English princes William & Harry, was Princess of...
+Answer: Wales
+
+ID: Q646
+Question: Which country was the first to acknowledge women's right to vote in 1893
+Answer: New Zealand
+
+ID: Q647
+Question: Which of these monarchies is the oldest
+Answer: Denmark
+
+ID: Q648
+Question: What famous ship sank in 1912?
+Answer: Titanic
+
+ID: Q649
+Question: In which country was the first case of Spanish Flu detected?
+Answer: United States
+
+ID: Q650
+Question: What was the largest empire ever to exist?
+Answer: British Empire
+
+ID: Q651
+Question: Did viking helmets have horns?
+Answer: No
+
+ID: Q652
+Question: 45th president of the United States of America
+Answer: Donald Trump
+
+ID: Q692
+Question: Which MovieStars can give new autographs faster?
+Answer: VIP users
+
+ID: Q693
+Question: A way of earning Fame in MovieStarPlanet 2 is to...
+Answer: Get love-it's on your ArtBooks & Looks
+
+ID: Q694
+Question: A way of earning StarCoins in MovieStarPlanet 2 is to...
+Answer: Level up
+
+ID: Q695
+Question: When is your home unlocked in MovieStarPlanet 2?
+Answer: When you reach level 3
+
+ID: Q696
+Question: When is Gifting unlocked in MovieStarPlanet 2?
+Answer: When you reach level 8
+
+ID: Q697
+Question: Where do you start when playing MovieStarPlanet the first time?
+Answer: On the Red Carpet in Plaza
+
+ID: Q698
+Question: What do you have to be to enter the VIP Club
+Answer: VIP
+
+ID: Q699
+Question: What is the money called in MovieStarPlanet2 ?
+Answer: StarCoins
+
+ID: Q700
+Question: What do you need to level up in MovieStarPlanet2 ?
+Answer: Fame
+
+ID: Q701
+Question: What game engine is used to create MovieStarPlanet2?
+Answer: Unity
+
+ID: Q702
+Question: How can you block or report a user in MovieStarPlanet?
+Answer: Press on the Yellow Triangle?
+
+ID: Q703
+Question: Why shouldn't you accept if another user wants to buy you VIP?
+Answer: Your account can be stolen with the receipt
+
+ID: Q704
+Question: What will MovieStarPlanet will never ask you to share?
+Answer: Your password
+
+ID: Q705
+Question: What was the previous name of BlockStarPlanet?
+Answer: RoboBlastPlanet
+
+ID: Q706
+Question: Which MovieStarPlanet character was replaced by Pixi Star?
+Answer: Samantha
+
+ID: Q707
+Question: In which European city does the company behind MovieStarPlanet have it headquarter?
+Answer: Copenhagen
+
+ID: Q708
+Question: In what country was MovieStarPlanet invented?
+Answer: Denmark
+
+ID: Q942
+Question: Who welcomes you in MovieStarPlanet 2?
+Answer: Nova Star
+
+ID: Q943
+Question: How many pets can you earn Fame by petting each day
+Answer: 10
+
+ID: Q944
+Question: How many countries is MovieStarPlanet2 out on?
+Answer: 16
+
+ID: Q945
+Question: When was MovieStarPlanet first launched?
+Answer: 2009
+
+ID: Q156
+Question: A blockbuster movie is...?
+Answer: A big hit
+
+ID: Q157
+Question: A minor role played by a very famous actor?
+Answer: Cameo
+
+ID: Q158
+Question: A minor role without speaking lines?
+Answer: Walk-on
+
+ID: Q159
+Question: A movie without audible dialogue is called a...?
+Answer: A silent film
+
+ID: Q160
+Question: A scene that is not used in the movie is called?
+Answer: Out-take
+
+ID: Q161
+Question: A second movie about existing characters is called?
+Answer: Sequel
+
+ID: Q162
+Question: A short sequence of a film where something goes wrong is called?
+Answer: A blooper
+
+ID: Q163
+Question: A Western film with an Italian producer or director?
+Answer: Spaghetti Western
+
+ID: Q164
+Question: Actors who appear briefly in movies are called?
+Answer: Extras
+
+ID: Q165
+Question: An artificial way to create illusions in a movie?
+Answer: Special effect
+
+ID: Q166
+Question: An audition for actors on camera is called?
+Answer: Screen test
+
+ID: Q167
+Question: An early term for a movie in 1920?
+Answer: Talkie
+
+ID: Q168
+Question: Another word for "motion picture" is?
+Answer: Movie
+
+ID: Q169
+Question: Boris Karloff starred as which monster in one of the first horror movies.
+Answer: Frankenstein
+
+ID: Q170
+Question: Fred Astaire was...?
+Answer: An actor
+
+ID: Q171
+Question: In which city is the annual International Circus Festival held?
+Answer: Monte Carlo
+
+ID: Q172
+Question: John Wayne is known for?
+Answer: Cowboy movies
+
+ID: Q173
+Question: Shrek’s best friend?
+Answer: A donkey
+
+ID: Q174
+Question: The "score" of a movie is also called?
+Answer: Soundtrack
+
+ID: Q175
+Question: The American Film Institute rated which female star as number 1?
+Answer: Katherine Hepburn
+
+ID: Q176
+Question: The first time the movie is shown to the public?
+Answer: Premiere
+
+ID: Q177
+Question: The name of the stand-up comic bear in The Muppet Show?
+Answer: Fozzie Bear
+
+ID: Q178
+Question: The voice behind Miss Piggy is also the voice behind which character?
+Answer: Yoda
+
+ID: Q179
+Question: What do actors use to learn their lines?
+Answer: A script
+
+ID: Q180
+Question: What is a "cliffhanger" in a TV show?
+Answer: A dramatic scene
+
+ID: Q181
+Question: What is a biographical movie about?
+Answer: A real person
+
+ID: Q182
+Question: What is a B-movie?
+Answer: A low-budget movie
+
+ID: Q183
+Question: What is a lead role?
+Answer: The main role
+
+ID: Q184
+Question: What is on the soundtrack of a movie?
+Answer: Movie music
+
+ID: Q185
+Question: What line of business were Bonnie & Clyde in?
+Answer: crime
+
+ID: Q186
+Question: When the director says "Cut!" he means?
+Answer: Stop filming
+
+ID: Q187
+Question: When the movie is still in production it is given a...?
+Answer: Working title
+
+ID: Q188
+Question: Which actress sang Happy Birthday for President Kennedy?
+Answer: Marilyn Monroe
+
+ID: Q189
+Question: Which circus is a mix of circus arts and street entertainment?
+Answer: Cirque du Soleil
+
+ID: Q190
+Question: Which group of animals was brought back to life in "Jurassic Park"?
+Answer: Dinosaurs
+
+ID: Q191
+Question: Which of these do we find in the circus?
+Answer: jugglers
+
+ID: Q192
+Question: Which puppet show was a great success in the 70’s?
+Answer: The Muppet Show
+
+ID: Q193
+Question: Who was the first female African-American to win an Oscar?
+Answer: Halle Berry
+
+ID: Q194
+Question: Who was the first movie actor to become president of the United States?
+Answer: Ronald Reagan
+
+ID: Q195
+Question: You hear a voice but cannot see the speaker?
+Answer: Voice over
+
+ID: Q196
+Question: The film classic Casablanca takes place in...?
+Answer: Morocco
+
+ID: Q312
+Question: A Paris kitchen was invaded by rodents in which movie?
+Answer: Ratatouille
+
+ID: Q313
+Question: Avatar was directed by?
+Answer: James Cameron
+
+ID: Q314
+Question: In "UP", a house flies with the help of?
+Answer: Balloons
+
+ID: Q315
+Question: Lightning McQueen stars in?
+Answer: Cars
+
+ID: Q316
+Question: Pixar movie about a family of Superheroes?
+Answer: The Incredibles
+
+ID: Q317
+Question: They are looking for a fish in this film?
+Answer: Finding Nemo
+
+ID: Q318
+Question: This Disney film features Simba and Scar?
+Answer: The Lion King
+
+ID: Q319
+Question: What product was the first to appear in a US TV commercial (in 1941)?
+Answer: Watches
+
+ID: Q320
+Question: What was Mickey Mouse's original name?
+Answer: Mortimer Mouse
+
+ID: Q321
+Question: When was Tom Hanks born?
+Answer: 1956
+
+ID: Q322
+Question: Which character is from "The Simpsons"?
+Answer: Marge
+
+ID: Q323
+Question: Who played Indiana Jones?
+Answer: Harrison Ford
+
+ID: Q325
+Question: Kermit the Frog is…
+Answer: Left-handed
+
+ID: Q326
+Question: What is Dorothy’s last name in "The Wizard of Oz"?
+Answer: Gale
+
+ID: Q327
+Question: Buzz Lightyear and Woody star in?
+Answer: Toy Story
+
+ID: Q328
+Question: Mickey Mouse was created in?
+Answer: 1928
+
+ID: Q329
+Question: When was the first Academy Awards ceremony held?
+Answer: 1929
+
+ID: Q653
+Question: Vivien Leigh & Clark Gable starred in this classic movie
+Answer: Gone with the Wind
+
+ID: Q654
+Question: What is the name of the fashion designer in the Pixar movie The Incredibles
+Answer: Edna Mode
+
+ID: Q655
+Question: Rowan Atkinson played this silly character
+Answer: Mr Bean
+
+ID: Q656
+Question: Who won an Oscar for Best Movie 2021?
+Answer: Nomadland
+
+ID: Q657
+Question: Comedy duo from the early Classical Hollywood Era
+Answer: Laurel & Hardy
+
+ID: Q658
+Question: Kermit the Frog is known from
+Answer: Muppet Show
+
+ID: Q659
+Question: This animated TV series character lives undersea in a pineapple
+Answer: Spongebob Squarepants
+
+ID: Q660
+Question: Finn and Jake the Dog star in this animated television series
+Answer: Adventure Time
+
+ID: Q661
+Question: Maggie, Lisa, Bart, Marge & Homer star in this show
+Answer: The Simpsons
+
+ID: Q662
+Question: Judy Garland starred in this classic movie
+Answer: Wizard of Oz
+
+ID: Q663
+Question: Michael J. Fox starred in which famous film trilogy?
+Answer: Back to the Future
+
+ID: Q664
+Question: Jeff Goldblum starred in which famous film?
+Answer: Jurassic Park
+
+ID: Q665
+Question: Jennifer Lawrence starred in which famous film series?
+Answer: The Hunger Games
+
+ID: Q666
+Question: Jennifer Aniston starred in which TV-show?
+Answer: Friends
+
+ID: Q667
+Question: Jason Priestley starred in which TV-show?
+Answer: Beverly Hills 90210
+
+ID: Q668
+Question: Which TV series is based on the iconic '80s Karate Kid film
+Answer: Cobra Kai
+
+ID: Q669
+Question: Which film directed by a black person won an Oscar for Best Motion Picture of the Year
+Answer: 12 Years a Slave
+
+ID: Q670
+Question: Which sci-fi movie has an AI called "Hal" in it
+Answer: 2001: A Space Odyssey
+
+ID: Q671
+Question: Classical movie about a giant ape
+Answer: King Kong
+
+ID: Q672
+Question: Which movie has won the most Oscars?
+Answer: Titanic
+
+ID: Q673
+Question: Which Movie won Oscars for both best International Feature Film & Best picture
+Answer: Parasite
+
+ID: Q674
+Question: What is used as a backdrop for making visual effects in movies
+Answer: Green Screen
+
+ID: Q675
+Question: What is another word for funny outtakes in a movie
+Answer: Blooper
+
+ID: Q676
+Question: These pioneers of cinema screened their first film in 1895
+Answer: Lumière brothers
+
+ID: Q677
+Question: Which family name is associated with producing James Bond movies
+Answer: Broccoli family
+
+ID: Q678
+Question: Monica, Chandler, Ross, Rachel, Phoebe, Joey
+Answer: Friends
+
+ID: Q679
+Question: What do you use to keep track of scenes in a movie?
+Answer: Clapperboard
+
+ID: Q680
+Question: Which film genre describes the movie Willow best
+Answer: Fantasy
+
+ID: Q681
+Question: Which film genre describes the movie Tron best
+Answer: Sci-fi
+
+ID: Q682
+Question: Which film genre describes the movie A Beautiful Planet best
+Answer: Documentary
+
+ID: Q683
+Question: Which film genre describes the movie Terminator best
+Answer: Action
+
+ID: Q684
+Question: Which film genre describes the movie Dracula best
+Answer: Horror
+
+ID: Q685
+Question: Which film genre describes the movie Borat best
+Answer: Satire
+
+ID: Q686
+Question: Which film genre describes the movie The Good, the Bad and the Ugly best
+Answer: Western
+
+ID: Q687
+Question: Both an animated movie and a live action movie from Disney
+Answer: 101 Dalmatians
+
+ID: Q688
+Question: What was the ammunition in the guns in the kids' gangster movie "Bugsy Malone"
+Answer: Whipped cream
+
+ID: Q689
+Question: American comedian and creator of the TV comedy-drama series Never Have I Ever
+Answer: Mindy Kaling
+
+ID: Q690
+Question: Who was the first woman of asian desent to host the Golden Globes?
+Answer: Sandra Oh
+
+ID: Q691
+Question: From which language is Hakuna Matata taken?
+Answer: Swahili
+
+ID: Q921
+Question: Silent movie comedian known for his mustache, his bowler hat and his cane
+Answer: Charles Chaplin
+
+ID: Q922
+Question: Legendary Kung Fu fighter who was also a cha cha cha champion
+Answer: Bruce Lee
+
+ID: Q923
+Question: This actor has starred both as James Bond, a Dragon and King Arthur
+Answer: Sean Connery
+
+ID: Q924
+Question: This actor has starred both as Han Solo & Indiana Jones
+Answer: Harrison Ford
+
+ID: Q925
+Question: Who starred in the classic movie "Casablanca"
+Answer: Humphrey Bogart
+
+ID: Q926
+Question: American film director and Academy Award winner
+Answer: Quentin Tarantino
+
+ID: Q927
+Question: Which members of the British royal family did an interview with Oprah in 2021
+Answer: Harry & Meghan
+
+ID: Q928
+Question: Who starred in the classic movie "The Wizard of Oz"
+Answer: Judy Garland
+
+ID: Q929
+Question: First woman to win an Oscar for Best Director
+Answer: Kathryn Bigelow
+
+ID: Q930
+Question: Which of these has won the most Oscars?
+Answer: Peter Jackson
+
+ID: Q931
+Question: Who was NOT part of "Monthy Python's Flying Circus"
+Answer: Rowan Atkinson
+
+ID: Q932
+Question: The world's largest film industry by number of feature films produced
+Answer: Bollywood
+
+ID: Q933
+Question: One of the biggest tourist attraction in Tennessee, United States
+Answer: Dollywood
+
+ID: Q934
+Question: A neighborhood in Los Angeles, that is also a reference for the U.S. film industry
+Answer: Hollywood
+
+ID: Q935
+Question: Which Director has won Most Oscars?
+Answer: John Ford
+
+ID: Q936
+Question: Which person have won the most Oscars
+Answer: Walt Disney
+
+ID: Q937
+Question: Both an animated movie and a live action movie from Disney
+Answer: Mulan
+
+ID: Q938
+Question: Singer & songwriter Sarah Faith Griffiths is known professionally as
+Answer: Griff
+
+ID: Q939
+Question: The actress who played Hermione Granger
+Answer: Emma Watson
+
+ID: Q940
+Question: Which Zip code is in Beverly Hills
+Answer: 90210
+
+ID: Q941
+Question: What year was Netflix founded?
+Answer: 1997
+
+ID: Q197
+Question: A "Gibson" is usually what kind of instrument?
+Answer: Guitar
+
+ID: Q198
+Question: A small version of the flute?
+Answer: Piccolo
+
+ID: Q199
+Question: A style of rock performed by singers who wore outrageous clothes...
+Answer: Glam Rock
+
+ID: Q200
+Question: Australian aboriginal musical instrument?
+Answer: Didgeridoo
+
+ID: Q201
+Question: Which instrument is largest?
+Answer: Cello
+
+ID: Q202
+Question: How old was Elvis Presley when he died?
+Answer: 42
+
+ID: Q203
+Question: In which Austrian city was Mozart born?
+Answer: Salzburg
+
+ID: Q204
+Question: What did Elvis Presley like in his sandwich?
+Answer: Peanut butter & banana
+
+ID: Q205
+Question: What instrument did Jimmy Hendrix play?
+Answer: guitar
+
+ID: Q206
+Question: What was Elvis Presley’s nickname?
+Answer: The King
+
+ID: Q207
+Question: Which classical composer ended up totally deaf?
+Answer: Beethoven
+
+ID: Q208
+Question: Which member of the rock band Nirvana died very young?
+Answer: Kurt Cobain
+
+ID: Q209
+Question: Who composed the opera The Magic Flute?
+Answer: Mozart
+
+ID: Q330
+Question: Which Beatle was shot in New York?
+Answer: John Lennon
+
+ID: Q331
+Question: What did Elvis Presley do before he became a singer?
+Answer: Truckdriver
+
+ID: Q332
+Question: What was Elvis Presley's house called?
+Answer: Graceland
+
+ID: Q333
+Question: Who was NOT a member of the Beatles?
+Answer: Jeffrey
+
+ID: Q334
+Question: Who was the last person to live at Graceland?
+Answer: Elvis' aunt Delta
+
+ID: Q709
+Question: Which one is a music genre?
+Answer: Kpop
+
+ID: Q710
+Question: Billie Eilish’s last name is
+Answer: Pirate Baird
+
+ID: Q711
+Question: Which instrument typically has 4 strings?
+Answer: Ukulele
+
+ID: Q712
+Question: Which instrument typically has 6 strings?
+Answer: Guitar
+
+ID: Q713
+Question: Who was Josephine Baker?
+Answer: Famous american dance and singer
+
+ID: Q714
+Question: Who was the first African-american Woman to win a Grammy Award?
+Answer: Ella Fitzgarald (in 1958)
+
+ID: Q715
+Question: Who won Best New Artist on the 2020's Grammy Awards?
+Answer: Billie Eilish
+
+ID: Q716
+Question: Whose song is "You should see me in a crown"?
+Answer: Billie Eilish
+
+ID: Q717
+Question: Who started their career at a music competition called The X Factor?
+Answer: Harry Styles
+
+ID: Q718
+Question: Who is married to the singer of "Peaches"?
+Answer: Hailey Bieber
+
+ID: Q719
+Question: What city do The Beatles come from?
+Answer: Liverpool
+
+ID: Q720
+Question: What is the oldest surviving musical instrument?
+Answer: flute
+
+ID: Q721
+Question: What song was the first to reach 1 mio. downloads in a week?
+Answer: Hello by Adele
+
+ID: Q722
+Question: Cuban singer Celia Cruz is considered
+Answer: The queen of salsa
+
+ID: Q723
+Question: Who is the Greek God of music?
+Answer: Apollo
+
+ID: Q724
+Question: Miss Adkins is an artist born in London. Who is she famously known as?
+Answer: Adele
+
+ID: Q725
+Question: Where is Carly Rae Jepsen originally from?
+Answer: Canada
+
+ID: Q726
+Question: Whose song is "Levitating"?
+Answer: Dua Lipa
+
+ID: Q727
+Question: What does Lady Gaga affectionately call her fans?
+Answer: Little Monsters
+
+ID: Q728
+Question: Lizzo plays what instrument?
+Answer: Flute
+
+ID: Q729
+Question: Who is Charli D'Amelio sister?
+Answer: Dixie D'Amelio
+
+ID: Q730
+Question: Zayn Malik was the first to leave this famous boy band
+Answer: One Direction
+
+ID: Q731
+Question: Wildest Dreams, Shake it Off, & 22 are songs from this singer
+Answer: Taylor Swift
+
+ID: Q946
+Question: "If you liked it then you shoulda put a ring on it"
+Answer: Beyoncé
+
+ID: Q947
+Question: This musician was simply known as "The King"
+Answer: Elvis Presley
+
+ID: Q948
+Question: This Liverpool band had 20 No.1 hits
+Answer: The Beatles
+
+ID: Q949
+Question: One of the most famous rock bands of all time whose logo is called "Hot Lips"
+Answer: The Rolling Stones
+
+ID: Q950
+Question: Beyonce's has an equally talented sister
+Answer: Solange
+
+ID: Q951
+Question: American singer, songwriter, rapper, actor, record producer and model
+Answer: Janelle Monáe
+
+ID: Q952
+Question: This singer and songwriter is behind the Albums "19", "21" and "25"
+Answer: Adele
+
+ID: Q953
+Question: This English pop group became a synonym with the phrase "Girl Power"
+Answer: Spice Girls
+
+ID: Q954
+Question: American crooner known as "Ol' Blue Eyes"
+Answer: Frank Sinatra
+
+ID: Q955
+Question: A very famous pop group originally formed in Sweden
+Answer: ABBA
+
+ID: Q957
+Question: The famous home of superstar Elvis Presley
+Answer: Graceland
+
+ID: Q958
+Question: Knighted English singer and Pianist nicknamed Rocket Man
+Answer: Elton John
+
+ID: Q959
+Question: Famous English singer-songwriter, known for "Space Oddity"
+Answer: David Bowie
+
+ID: Q960
+Question: Lead singer of the supergroup Queen, known for "We are the Champions"
+Answer: Freddie Mercury
+
+ID: Q961
+Question: Who has won the most Grammys?
+Answer: Georg Solti
+
+ID: Q962
+Question: Which of these has won the most Grammys?
+Answer: Beyoncé
+
+ID: Q963
+Question: Who posed on the cover of Vogue and said “It’s All About What Makes You Feel Good”
+Answer: Billie Eilish
+
+ID: Q964
+Question: Canadian singer Abel Makkonen Tesfaye is professionally known as
+Answer: The Weeknd
+
+ID: Q965
+Question: Her album Future Nostalgia (2020) earned her six Grammy nominations
+Answer: Dua Lipa
+
+ID: Q966
+Question: She is known as the creator, writer, and star of the television series Girls
+Answer: Lena Dunham
+
+ID: Q967
+Question: Who is the documentary "The World's a little blurry" about
+Answer: Billie Eilish
+
+ID: Q968
+Question: Harry Styles' middle name?
+Answer: Edward
+
+ID: Q969
+Question: Which BTS song has most views on Youtube
+Answer: Dynamite
+
+ID: Q970
+Question: Whose debut album is called Sour?
+Answer: Olivia Rodrigo
+
+ID: Q971
+Question: What's the name of Olivia Rodrigo's debut single?
+Answer: Driver's license
+
+ID: Q972
+Question: How many notes are there in a musical scale?
+Answer: 7
+
+ID: Q973
+Question: How many keys does a piano have?
+Answer: 88
+
+ID: Q974
+Question: What year was Billie Eilish born?
+Answer: 2001
+
+ID: Q975
+Question: How many members are in BTS?
+Answer: 7
+
+ID: Q335
+Question: A rainbow consists of how many colours?
+Answer: 7
+
+ID: Q336
+Question: A tsunami is?
+Answer: A big wave
+
+ID: Q337
+Question: Clouds are made of?
+Answer: Water
+
+ID: Q338
+Question: How much of the Earth's surface is covered with water?
+Answer: Ca. 70%
+
+ID: Q339
+Question: How much of all volcanic activity occurs in the Oceans?
+Answer: About 90%
+
+ID: Q340
+Question: The Earth is divided into how many time zones?
+Answer: 38
+
+ID: Q341
+Question: The Mohave Desert is filled with....?
+Answer: Joshua Trees
+
+ID: Q732
+Question: Clothing production that has an enormous environmental footprint
+Answer: Fast Fashion
+
+ID: Q733
+Question: April 22nd is...?
+Answer: Earth Day
+
+ID: Q734
+Question: What is the green house effect?
+Answer: A process that warms up the earth
+
+ID: Q735
+Question: Famous international treaty on climate change from 2015
+Answer: Paris Agreement
+
+ID: Q736
+Question: What pollutes the most?
+Answer: Airplanes
+
+ID: Q737
+Question: How did Greta Thunberg get to the Climate Action Summit in New York?
+Answer: Sailing
+
+ID: Q738
+Question: How much water is approximately used in a 5 minute shower
+Answer: 100 liters
+
+ID: Q739
+Question: What kind of meat has the lowest carbon footprint?
+Answer: Chicken
+
+ID: Q740
+Question: If you want to live a more sustainable lifestyle, you should...
+Answer: Eat less meat
+
+ID: Q741
+Question: If you want to live a more sustainable lifestyle, you should...
+Answer: avoid wasting paper - go digital
+
+ID: Q742
+Question: If you want to live a more sustainable lifestyle, you should...
+Answer: Recycle and reuse
+
+ID: Q743
+Question: If you want to live a more sustainable lifestyle, you should...
+Answer: Donate unused items to charity
+
+ID: Q744
+Question: If you want to live a more sustainable lifestyle, you should...
+Answer: Use eco-friendly cleaning products
+
+ID: Q745
+Question: If you want to live a more sustainable lifestyle, you should...
+Answer: Drive less in your own car
+
+ID: Q746
+Question: If you want to live a more sustainable lifestyle, you should...
+Answer: Use LED light bulbs
+
+ID: Q747
+Question: In 2018 Gretha Thunberg went on strike for
+Answer: The climate
+
+ID: Q748
+Question: What is stratus clouds?
+Answer: long clouds
+
+ID: Q749
+Question: What is cumulus clouds?
+Answer: tall clouds
+
+ID: Q750
+Question: How old is the oldest tree on earth?
+Answer: 5000 years old
+
+ID: Q751
+Question: What is photosynthesis?
+Answer: Plants turning sunlight and CO2 into energy
+
+ID: Q752
+Question: What makes plants green?
+Answer: Chlorophyll
+
+ID: Q753
+Question: What causes a blood moon?
+Answer: A total lunar eclipse
+
+ID: Q754
+Question: Worldwide how much food is wasted every year?
+Answer: 1 billion tons
+
+ID: Q755
+Question: What country held a funeral for a glacier in 2019 to raise awareness of global warming?
+Answer: Switzerland
+
+ID: Q756
+Question: How many tons of plastic (at least) end up in the oceans per year?
+Answer: 8 million
+
+ID: Q976
+Question: How many plant species are on earth?
+Answer: 400
+
+ID: Q977
+Question: Which of these is a greenhouse gas?
+Answer: CO2
+
+ID: Q978
+Question: How many phases does the moon have
+Answer: 8
+
+ID: Q979
+Question: How many days in a year?
+Answer: 365
+
+ID: Q250
+Question: Each person throws away approximately how much garbage every day?
+Answer: 4 pounds
+
+ID: Q251
+Question: What is described as the "Lungs of our Planet"?
+Answer: The Amazonian Rainforest
+
+ID: Q252
+Question: Every ton of paper that is recycled saves...?
+Answer: 17 trees
+
+ID: Q253
+Question: If Antarctica were to melt
+Answer: 200 feet
+
+ID: Q254
+Question: The world's oldest ecosystems are...?
+Answer: The tropical rainforests
+
+ID: Q255
+Question: Which of the following is corn?
+Answer: A grain
+
+ID: Q757
+Question: Who would most likely use a stetoscope in their work
+Answer: Doctor
+
+ID: Q758
+Question: Who would most likely use a tailor dummy in their work
+Answer: Dressmaker
+
+ID: Q759
+Question: Who would most likely use a blow dryer in their work
+Answer: Hair dresser
+
+ID: Q760
+Question: Who would most likely use pruning shears in their work
+Answer: Gardener
+
+ID: Q761
+Question: Who would most likely use a microscope in their work
+Answer: Scientist
+
+ID: Q762
+Question: Who would most likely use a pistol-grip tool in their work
+Answer: Astronaut
+
+ID: Q763
+Question: Who would most likely use an autoclave in their work
+Answer: Vet
+
+ID: Q764
+Question: Who would most likely use a mood board in their work
+Answer: Interior designer
+
+ID: Q765
+Question: Who would most likely use a concealer in their work
+Answer: Make-up artist
+
+ID: Q766
+Question: Who would most likely use a clapboard in their work
+Answer: Film Director
+
+ID: Q767
+Question: Who would most likely use a wire harness in their work
+Answer: Stunt performer
+
+ID: Q768
+Question: Who would most likely use a tracing paper in their work
+Answer: Architect
+
+ID: Q769
+Question: Who would most likely use a baton in their work
+Answer: Police Detective
+
+ID: Q770
+Question: Who would will be most likely to visit an oasis?
+Answer: Florist
+
+ID: Q212
+Question: Badminton was invented in?
+Answer: UK
+
+ID: Q213
+Question: Basketball was invented in?
+Answer: USA
+
+ID: Q214
+Question: European handball was invented in?
+Answer: Denmark
+
+ID: Q215
+Question: Golf was invented in?
+Answer: Scotland
+
+ID: Q216
+Question: Handball was invented in?
+Answer: Denmark
+
+ID: Q217
+Question: How many fighters are there in a boxing match?
+Answer: 2
+
+ID: Q218
+Question: How many games are there in a set of tennis?
+Answer: 6
+
+ID: Q219
+Question: How many minutes is a period in European handball?
+Answer: 30
+
+ID: Q221
+Question: How many strokes over par is a Bogey in golf?
+Answer: 1
+
+ID: Q222
+Question: In which country was rugby first played?
+Answer: England
+
+ID: Q223
+Question: The hacky-sack was invented in which country?
+Answer: Turkey
+
+ID: Q224
+Question: What are the home colours of the English football team?
+Answer: white & blue
+
+ID: Q354
+Question: Football (soccer) was invented in?
+Answer: UK
+
+ID: Q355
+Question: How many games are there in a set of tennis?
+Answer: 6
+
+ID: Q356
+Question: How many periods are there in a football (soccer) game?
+Answer: 2
+
+ID: Q357
+Question: How many players are there on a basketball team?
+Answer: 5
+
+ID: Q358
+Question: How many players are there on a European handball team?
+Answer: 7
+
+ID: Q359
+Question: Which ball is the largest?
+Answer: A basketball
+
+ID: Q360
+Question: Which racket is the largest?
+Answer: Tennis racket
+
+ID: Q361
+Question: How many Grand Slams are there in tennis?
+Answer: 4
+
+ID: Q362
+Question: How many minutes is a period in football (soccer)?
+Answer: 45
+
+ID: Q363
+Question: How many periods are there in an icehockey game?
+Answer: 3
+
+ID: Q364
+Question: How many players are there on a curling team?
+Answer: 4
+
+ID: Q365
+Question: How many players are there on a soccer team?
+Answer: 11
+
+ID: Q366
+Question: In which sport is there a discipline called Butterfly?
+Answer: Swimming
+
+ID: Q771
+Question: The name of a new Video assisting referee in football matches
+Answer: VAR
+
+ID: Q772
+Question: What flag marks the victory in a car race
+Answer: Checkered
+
+ID: Q773
+Question: From which country was the first woman to climb Mount Everest?
+Answer: Japan
+
+ID: Q774
+Question: Japanese Junko Tabei was?
+Answer: The first woman to climb the Mount Everest
+
+ID: Q775
+Question: Sybil Lupp from New Zealand was a
+Answer: Sucessful racing car driver!
+
+ID: Q776
+Question: Which football team plays at the New York Stadium
+Answer: Rotherham United
+
+ID: Q980
+Question: Which of these teams has won the most Super Bowls?
+Answer: New England Patriots
+
+ID: Q981
+Question: Which of these players has won the most Super Bowls?
+Answer: Tom Brady
+
+ID: Q982
+Question: Who has been the World's no.1 in Tennis the most weeks?
+Answer: Novak Djokovic
+
+ID: Q983
+Question: Who has won the most Grand Slams in Tennis
+Answer: Serena Williams
+
+ID: Q984
+Question: Who has won most Golf Majors?
+Answer: Jack Nicklaus
+
+ID: Q985
+Question: Who has scored the most soccer goals in his carreer
+Answer: Cristiano Ronaldo
+
+ID: Q986
+Question: Who has won the most World Championships in soccer?
+Answer: Brazil
+
+ID: Q987
+Question: This artistic gymnast is considered the greatest female gymnast of all times
+Answer: Simone Biles
+
+ID: Q225
+Question: How long does it take sunlight to reach the Earth?
+Answer: 8 minutes
+
+ID: Q226
+Question: The chemical formula for water is?
+Answer: H20
+
+ID: Q227
+Question: What is 12 times 12?
+Answer: 144
+
+ID: Q228
+Question: What is longest?
+Answer: A Meter
+
+ID: Q229
+Question: What is the square root of 144?
+Answer: 12
+
+ID: Q230
+Question: What is the square root of 625?
+Answer: 25
+
+ID: Q231
+Question: Which number is not a prime number?
+Answer: 33
+
+ID: Q345
+Question: In which direction does the Sun rotate (viewed from above the Sun's north pole)?
+Answer: Counter-clockwise
+
+ID: Q346
+Question: The coldest planet in the solar system is?
+Answer: Neptune
+
+ID: Q347
+Question: The planet which is called The Blue Planet?
+Answer: Earth
+
+ID: Q348
+Question: The planet which is called The Red Planet?
+Answer: Mars
+
+ID: Q349
+Question: Which planet is the largest?
+Answer: Jupiter
+
+ID: Q350
+Question: Which planet is the smallest?
+Answer: Mercury
+
+ID: Q351
+Question: What are the two most dense planets in the Solar System?
+Answer: Earth and Mercury
+
+ID: Q352
+Question: What is a Cosmonaut?
+Answer: The Russian/Soviet term for an astronaut
+
+ID: Q353
+Question: What is bigger
+Answer: The Earth
+
+ID: Q367
+Question: An American mile is approximately how many kilometers?
+Answer: 1
+
+ID: Q368
+Question: The chemical formula for normal table salt is?
+Answer: NaCl
+
+ID: Q369
+Question: What is 101 minus 22?
+Answer: 79
+
+ID: Q370
+Question: What is 83 minus 18 plus 54?
+Answer: 119
+
+ID: Q371
+Question: What is measured on the Richter scale?
+Answer: Earth quakes
+
+ID: Q372
+Question: Which mineral is a diamond made of?
+Answer: Carbon
+
+ID: Q373
+Question: Which number is a prime number?
+Answer: 23
+
+ID: Q374
+Question: Which number is not a prime number?
+Answer: 30
+
+ID: Q375
+Question: An American gallon is approximately how many liters?
+Answer: 3
+
+ID: Q376
+Question: How many degrees in a circle?
+Answer: 360
+
+ID: Q377
+Question: How many feet to 1 meter?
+Answer: 3
+
+ID: Q378
+Question: What is 119 divided by 17?
+Answer: 7
+
+ID: Q379
+Question: What is 13 times 13?
+Answer: 169
+
+ID: Q380
+Question: What is heavier?
+Answer: They weigh the same
+
+ID: Q381
+Question: What is the popular name for the element called AG?
+Answer: Silver
+
+ID: Q382
+Question: What is the squareroot of 49?
+Answer: 7
+
+ID: Q383
+Question: Who described the theory of relativity?
+Answer: Einstein
+
+ID: Q777
+Question: AI stands for
+Answer: Artificial Intelligence
+
+ID: Q778
+Question: An American space transportation company founded by Elon Musk
+Answer: SpaceX
+
+ID: Q779
+Question: Binary code used in digital computers uses...
+Answer: 0's & 1's
+
+ID: Q780
+Question: What type of animal was Dolly - the first ever living creature to be cloned?
+Answer: sheep
+
+ID: Q781
+Question: What color is the sunset on Mars?
+Answer: blue
+
+ID: Q782
+Question: What are the 2 main types of energy?
+Answer: Kinetic and potential
+
+ID: Q783
+Question: How many planets are there in the Solar System?
+Answer: 8
+
+ID: Q784
+Question: What is the effect of Earth's rotation?
+Answer: Day and night
+
+ID: Q785
+Question: What is a pie chart?
+Answer: A type of graph
+
+ID: Q786
+Question: Which digital storage unit is the largest?
+Answer: gigabyte
+
+ID: Q787
+Question: What is the longest side in a right triangle called?
+Answer: Hypotenuse
+
+ID: Q788
+Question: What does RAM, used in a computer, stand for?
+Answer: Random Access Memory
+
+ID: Q789
+Question: The speed of light
+Answer: 299 792 458 m / s
+
+ID: Q790
+Question: What does CPU, used in a computer, stand for?
+Answer: Central Processing Unit
+
+ID: Q791
+Question: Who is said to be the first Computer Programmer?
+Answer: Ada Lovelace
+
+ID: Q792
+Question: What is a super moon?
+Answer: The moon appears larger than usual
+
+ID: Q793
+Question: Whats the name of the 3rd planet from the Sun?
+Answer: Planet Earth
+
+ID: Q794
+Question: Which planet is closest to the Sun?
+Answer: Mercury
+
+ID: Q795
+Question: What is the name of the 5th planet from the Sun?
+Answer: Jupiter
+
+ID: Q796
+Question: What is the name of the 6th planet from the Sun?
+Answer: Saturn
+
+ID: Q797
+Question: What is the name of the 7th planet from the Sun?
+Answer: Uranus
+
+ID: Q798
+Question: What is the square root of -1?
+Answer: i
+
+ID: Q799
+Question: The square root of -1 is called "i" - What does the "i" stand for?
+Answer: Imaginary
+
+ID: Q800
+Question: What does the "e" stand for in the equation e=mc^2?
+Answer: Energy
+
+ID: Q801
+Question: The three main parts that construct an atom are called neutrons, electrons and
+Answer: protons
+
+ID: Q802
+Question: What is the strongest shape in nature?
+Answer: Triangle
+
+ID: Q803
+Question: How long does it take for a diamond to form in the Earth?
+Answer: Up to 3.3 billion years
+
+ID: Q804
+Question: Which one of these numbers is the biggest?
+Answer: Googolplex
+
+ID: Q805
+Question: Which planet is furthest from the Sun?
+Answer: Neptune
+
+ID: Q806
+Question: How many feet are there in a mile
+Answer: 5280
+
+ID: Q807
+Question: If you freeze water, what do you get?
+Answer: Ice
+
+ID: Q808
+Question: Closest planet to earth?
+Answer: Venus
+
+ID: Q809
+Question: The hottest planet in the solar system is?
+Answer: Venus
+
+ID: Q988
+Question: 1+2+3+4+5+6+7+8+9+10?
+Answer: 55
+
+ID: Q989
+Question: 3x3x3=?
+Answer: 27
+
+ID: Q990
+Question: 2x2x2x2x2=?
+Answer: 32
+
+ID: Q991
+Question: Which is not a programming language?
+Answer: Mamba
+
+ID: Q992
+Question: How many elements are there in the periodic table?
+Answer: 118
+
+ID: Q993
+Question: How many thunderstorms are there on Earth every minute?
+Answer: 2000
+
+ID: Q994
+Question: How many bits does a byte have?
+Answer: 8
+
+ID: Q995
+Question: How many bits in one byte?
+Answer: 8
+
+ID: Q996
+Question: What year was the first mobile phone sold
+Answer: 1983
+
+ID: Q997
+Question: How many colours are there in the rainbow?
+Answer: 7
+
+ID: Q1000
+Question: Which famous writer both wrote Hamlet and Romeo & Juliet
+Answer: Shakespeare
+
+ID: Q19
+Question: “Mirror, mirror on the wall, who in the land is fairest of all?" is from?
+Answer: Snow White
+
+ID: Q20
+Question: A character from The Chronicles of Narnia.
+Answer: Prince Caspian
+
+ID: Q21
+Question: A classic children's story that takes place in the Swiss Alps?
+Answer: Heidi
+
+ID: Q22
+Question: A classic story about an orphan in the streets of London?
+Answer: Oliver Twist
+
+ID: Q23
+Question: A traditional story about animals is called a?
+Answer: fable
+
+ID: Q248
+Question: Pinocchio is a boy made out of...?
+Answer: Wood
+
+ID: Q249
+Question: Who does NOT appear in "Alice in Wonderland"?
+Answer: Book Worm
+
+ID: Q24
+Question: A traditional story about magic and enchantment is called a ?
+Answer: fairy tale
+
+ID: Q25
+Question: Book and TV series about a clever dog?
+Answer: Lassie
+
+ID: Q26
+Question: Enid Blyton wrote about a group of young detectives?
+Answer: The Famous Five
+
+ID: Q27
+Question: Fictional sea captain in a series of novels by C.S. Forester?
+Answer: Horatio Hornblower
+
+ID: Q28
+Question: Friday is a character from which famous book?
+Answer: Robinson Crusoe
+
+ID: Q29
+Question: Gulliver is known for?
+Answer: His travels
+
+ID: Q30
+Question: In which country did the Grimm brothers collect their fairy tales?
+Answer: Germany
+
+ID: Q31
+Question: In which novel do we meet captain Ahab?
+Answer: Moby Dick
+
+ID: Q32
+Question: James Barrie wrote about a boy who doesn't want to grow up?
+Answer: Peter Pan
+
+ID: Q33
+Question: Laura Ingalls Wilder wrote "Little House on the..."?
+Answer: Prairie
+
+ID: Q34
+Question: Little Red Riding Hood walks through the woods to visit..?
+Answer: her grandmother
+
+ID: Q35
+Question: Mark Twain wrote about the adventures of this boy?
+Answer: Tom Sawyer
+
+ID: Q36
+Question: Merlin is about a legendary character. What is he?
+Answer: A wizard
+
+ID: Q37
+Question: Once upon a time… is usually the first line of ?
+Answer: A fairy tale
+
+ID: Q38
+Question: Phileas Fogg travelled around the world in how many days?
+Answer: 80
+
+ID: Q39
+Question: Pippi Longstocking's father is always away. What does he do?
+Answer: Sails the seas
+
+ID: Q40
+Question: Robin Hood stole from the rich and gave to...?
+Answer: The poor
+
+ID: Q41
+Question: The Beauty and the Beast is a fairy tale set in which country?
+Answer: France
+
+ID: Q42
+Question: The character Shylock is from what Shakespeare play?
+Answer: The Merchant of Venice
+
+ID: Q43
+Question: The story of The Three Musketeers is set in which country?
+Answer: France
+
+ID: Q44
+Question: The witch feeds Hansel good food in order to?
+Answer: eat him
+
+ID: Q45
+Question: What did the crocodile swallow in "Peter Pan"?
+Answer: An alarm clock
+
+ID: Q47
+Question: What is Dr. Doolittle good at?
+Answer: Talking to animals
+
+ID: Q48
+Question: What is Moby Dick?
+Answer: a whale
+
+ID: Q49
+Question: What is the legend of King Arthur known for?
+Answer: The Sword in the stone
+
+ID: Q50
+Question: What kind of wood was Pinocchio made of?
+Answer: Pine
+
+ID: Q51
+Question: What's the name of the boy that was raised by wolves in the jungle?
+Answer: Mowgli
+
+ID: Q52
+Question: Where was author Hans Christian Andersen born?
+Answer: Denmark
+
+ID: Q53
+Question: Which of these is not a character from the Winnie the Pooh books?
+Answer: Miss Piggy
+
+ID: Q54
+Question: Which shoe did Cinderella lose at midnight?
+Answer: Left shoe
+
+ID: Q55
+Question: Who created Pippi Longstocking?
+Answer: Astrid Lindgren
+
+ID: Q56
+Question: Who created the musical fairy tale Peter and the Wolf?
+Answer: Prokofjev
+
+ID: Q57
+Question: Who is Robin Hood in love with?
+Answer: Maid Marian
+
+ID: Q58
+Question: Who is the creator of Sherlock Holmes?
+Answer: Conan Doyle
+
+ID: Q59
+Question: Who is the villain in "Robin Hood"?
+Answer: The Sheriff of Nottingham
+
+ID: Q60
+Question: Who loses her glass slipper when she hastily leaves the ball?
+Answer: Cinderella
+
+ID: Q61
+Question: Who said: “To be, or not to be, that is the question"?
+Answer: Hamlet
+
+ID: Q62
+Question: Who was Tom Sawyer's best friend?
+Answer: Huckleberry Finn
+
+ID: Q63
+Question: Who wrote "Hitchhiker’s Guide to the Galaxy"?
+Answer: Douglas Adams
+
+ID: Q64
+Question: Who wrote "Romeo and Juliet"?
+Answer: William Shakespeare
+
+ID: Q65
+Question: Who wrote "Treasure Island"?
+Answer: R.L. Stevenson
+
+ID: Q66
+Question: Who wrote the Black Beauty novels?
+Answer: Anna Sewell
+
+ID: Q67
+Question: Who wrote the book Dracula?
+Answer: Bram Stoker
+
+ID: Q68
+Question: Who wrote the fairy tale Hansel and Gretel?
+Answer: Brothers Grimm
+
+ID: Q69
+Question: Who wrote the original fairy tale the Little Mermaid?
+Answer: Hans Christian Andersen
+
+ID: Q70
+Question: Who wrote the Winnie the Pooh books?
+Answer: A A Milne
+
+ID: Q810
+Question: Which famous play ends with "The rest is silence"
+Answer: Hamlet
+
+ID: Q811
+Question: Fairy tale about a tiny girl who goes through a lot of trials
+Answer: Thumbelina
+
+ID: Q812
+Question: In greek myth, who is the mother of the flying horse Pegasus?
+Answer: Medusa
+
+ID: Q813
+Question: Which many-headed mythical monster was slain by Hercules
+Answer: Hydra
+
+ID: Q814
+Question: King of the Gods in Greek mythology
+Answer: Zeus
+
+ID: Q815
+Question: Goddess of love in Greek mythology
+Answer: Aphrodite
+
+ID: Q816
+Question: God of the sun in Egyptian mythology
+Answer: Ra
+
+ID: Q817
+Question: God of mummification in Egyptian mythology
+Answer: Anubis
+
+ID: Q818
+Question: King of the Gods in Norse mythology
+Answer: Odin
+
+ID: Q819
+Question: God of Thunder in Norse mythology
+Answer: Thor
+
+ID: Q820
+Question: Godess of love and spring in Norse mythology
+Answer: Freja
+
+ID: Q821
+Question: King of the Gods in Roman mythology
+Answer: Jupiter
+
+ID: Q822
+Question: God of fire in Roman mythology
+Answer: Vulcan
+
+ID: Q823
+Question: Goddess of love Roman mythology
+Answer: Venus
+
+ID: Q824
+Question: Mythical creature that was half a human, half a goat
+Answer: Faun
+
+ID: Q825
+Question: Mythical creature that was a horse with wings
+Answer: Pegasus
+
+ID: Q826
+Question: Mythical creature that had a human head, body of a lion and wings of a bird
+Answer: Sphinx
+
+ID: Q827
+Question: Mythical creature that was half a lion, half an eagle
+Answer: Griffin
+
+ID: Q828
+Question: Mythical creature that was half a human, half a horse
+Answer: Centaur
+
+ID: Q829
+Question: Mythical creature that was half a human, half a bull
+Answer: Minotaur
+
+ID: Q830
+Question: What is Cupid armed with?
+Answer: Bow & Arrow
+
+ID: Q831
+Question: Half a human, half a horse
+Answer: Centaur
+
+ID: Q832
+Question: In Roman Mythology Pluto is the God of...
+Answer: Death
+
+ID: Q833
+Question: Which fairy tale is the inpiration for Disney's animated movie Frozen
+Answer: Hans Christian Andersen's The Snow Queen
+
+ID: Q834
+Question: Fairy tale character with extremely long hair
+Answer: Rapuntzel
+
+ID: Q835
+Question: Fairy tale character who wants to be a real boy
+Answer: Pinocchio
+
+ID: Q836
+Question: Fairy tale character whose real name is Aurora
+Answer: Sleeping Beauty
+
+ID: Q837
+Question: The witch's House in Hansel & Gretzel is made of
+Answer: Pancakes
+
+ID: Q838
+Question: Finish the sentence: Mirror, mirror on the wall...
+Answer: Who's the fairest of them all?
+
+ID: Q839
+Question: Who went on an Adventure in Wonderland?
+Answer: Alice
+
+ID: Q840
+Question: Who bites a poisonous apple
+Answer: Snow White
+
+ID: Q841
+Question: Fairy tale about a girl who visits her Grandma in the Woods
+Answer: Little Red Riding Hood
+
+ID: Q842
+Question: Fairy tale of a a rat-catcher hired by a town to lure rats away
+Answer: Pied Piper of Hamelin
+
+ID: Q843
+Question: Which part of Achilles was, according to Greek mythology, most vulnerable?
+Answer: heel
+
+ID: Q844
+Question: Who was the ancient Roman goddess of love?
+Answer: Venus
+
+ID: Q845
+Question: What did Icarus fly too close to?
+Answer: sun
+
+ID: Q846
+Question: Which Disney character has a tattoo?
+Answer: Pocahontas
+
+ID: Q847
+Question: What was the first animated Disney film?
+Answer: Snow White and the Seven Dwarfs
+
+ID: Q848
+Question: Who wrote Romeo and Juliet?
+Answer: William Shakespeare
+
+ID: Q849
+Question: What breed of dog was Lassie?
+Answer: collie
+
+ID: Q850
+Question: Whose nose grew longer every time he lied?
+Answer: Pinocchio
+
+ID: Q851
+Question: What type of animal is Baloo in The Jungle Book?
+Answer: a bear
+
+ID: Q852
+Question: What is a biography?
+Answer: A book about people's lives
+
+ID: Q998
+Question: This famous American novelist both won the Pulitzer Prize and the Nobel Prize
+Answer: Ernest Hemingway
+
+ID: Q999
+Question: Swedish children's books author known for Pippi Longstocking
+Answer: Astrid Lindgren
+
+ID: Q1001
+Question: How many cards are in a standard deck?
+Answer: 52
+
+ID: Q1002
+Question: How many colors does a Rubik's cube have?
+Answer: 6
+
+ID: Q232
+Question: What is the signature color of Ferrari?
+Answer: Red
+
+ID: Q233
+Question: Which car brand has a horse in its logo?
+Answer: Ferrari
+
+ID: Q234
+Question: Which car brand has a lion in its logo?
+Answer: Peugeot
+
+ID: Q235
+Question: Which company invented the iPod?
+Answer: Apple
+
+ID: Q853
+Question: The Japanese art of paper folding
+Answer: Origami
+
+ID: Q1003
+Question: Famous feminist philosopher
+Answer: Simone de Beauviour
+
+ID: Q1004
+Question: Famous indian activist who employed nonviolent resistance against the British rule
+Answer: Mahatma Gandhi
+
+ID: Q1005
+Question: The engineer behind Paris' most famous landmark built in 1889
+Answer: Gustave Eiffel
+
+ID: Q1006
+Question: This British Prime Minister won the Nobel Prize in Literature
+Answer: Winston Churchill
+
+ID: Q1007
+Question: She played an important part in the Lewis and Clark expedition in 1804
+Answer: Sacagawea
+
+ID: Q1008
+Question: South Africa's first black President and Nobel Peace Prize winner
+Answer: Nelson Mandela
+
+ID: Q1009
+Question: The first woman to fly solo across the Atlantic Ocean
+Answer: Amelia Earhart
+
+ID: Q1010
+Question: The first emperor of France is known as one of the world's greatest military leaders
+Answer: Napoleon Bonaparte
+
+ID: Q1011
+Question: The International Nurses Day is celebrated on her birthday
+Answer: Florence Nightingale
+
+ID: Q1012
+Question: Who won TWO Nobel Prizes, one in physics, one in chemistry
+Answer: Marie Curie
+
+ID: Q1013
+Question: Who discovered X-rays
+Answer: Wilhelm Röntgen
+
+ID: Q1014
+Question: This famous scientist came up with the theory of relativity
+Answer: Albert Einstein
+
+ID: Q1015
+Question: This famous scientist is known for the laws of motion and universal gravitation
+Answer: Isaac Newton
+
+ID: Q1016
+Question: Genius who both painted Mona Lisa and made designs for a Helicopter
+Answer: Leonardo Da Vinci
+
+ID: Q1017
+Question: Which president is NOT depicted in Mount Rushmore
+Answer: Donald Trump
+
+ID: Q1018
+Question: Which American President has won Nobel's Peace Prize
+Answer: Barack Obama
+
+ID: Q1019
+Question: Which American Vice President has won Nobel's Peace Prize
+Answer: Al Gore
+
+ID: Q1020
+Question: Who was the first man on the Moon?
+Answer: Neil Armstrong
+
+ID: Q1021
+Question: Who founded the Magazine Rookie at the age of 15
+Answer: Tavi Gevinson
+
+ID: Q1022
+Question: Which poet became famous overnight after President Biden's inauguration?
+Answer: Amanda Gorman
+
+ID: Q236
+Question: British statesman known for his leadership during WWII?
+Answer: Churchill
+
+ID: Q237
+Question: He created Facebook?
+Answer: Mark Zuckerberg
+
+ID: Q238
+Question: What was Churchill’s first name?
+Answer: Winston
+
+ID: Q239
+Question: Who invented dynamite?
+Answer: Nobel
+
+ID: Q240
+Question: Who invented the elevator?
+Answer: Elisha Otis
+
+ID: Q241
+Question: Who was the first president of the United States of America?
+Answer: George Washington
+
+ID: Q384
+Question: What did John Spilsbury invent?
+Answer: The jigsaw puzzle
+
+ID: Q385
+Question: Who coined the phrase "fifteen minutes of fame?"
+Answer: Andy Warhol
+
+ID: Q386
+Question: Who invented the light bulb?
+Answer: Edison
+
+ID: Q387
+Question: Who invented the telegraph?
+Answer: Marconi
+
+ID: Q388
+Question: Who invented the telephone?
+Answer: Bell
+
+ID: Q389
+Question: Yes we can!
+Answer: Barack Obama
+
+ID: Q854
+Question: Who played an important role in allowing votes for women in England
+Answer: Emmeline Pankhurst
+
+ID: Q855
+Question: Who has been called "the mother of the freedom movement"
+Answer: Rosa Parks
+
+ID: Q856
+Question: Where did Darwin get inspiration for his "Origin of the Species"?
+Answer: On a trip to Galapagos
+
+ID: Q857
+Question: Who is also called POTUS
+Answer: The American President
+
+ID: Q858
+Question: What is a FLOTUS
+Answer: Wife of an American president
+
+ID: Q859
+Question: Who was the first woman to win a Nobel Prize?
+Answer: Marie Skłodowska-Curie
+
+ID: Q860
+Question: Writer Margaret Atwood's work is highly focused on
+Answer: Womens rights
+
+ID: Q861
+Question: What was Emmeline Parkhurst fighting for around year 1903?
+Answer: Womens rights to vote
+
+ID: Q862
+Question: In 1894 Maria Montessori was the first woman to receive a
+Answer: Medical degree
+
+ID: Q863
+Question: Dr. Mae Jemison was the first african-american women
+Answer: To space
+
+ID: Q864
+Question: Who was the first woman of color to be elected as Vice President of USA?
+Answer: Kamala Harris
+
+ID: Q865
+Question: Who was the first computer programmer in the world?
+Answer: Ada Lovelace
+
+ID: Q866
+Question: Marie Curie discovered
+Answer: Radiation
+
+ID: Q867
+Question: Jane Goodall is famous for
+Answer: Living with Chimipanzees
+
+ID: Q868
+Question: The Movie Star Hedy Lamarr invented
+Answer: Technology for Mobiles and WiFi
+
+ID: Q869
+Question: Rosalind Franklin discovered
+Answer: That DNA has a Double Helix shape
+
+ID: Q870
+Question: Ada Lovelace's invention is used
+Answer: To make games like MovieStarPlanet 2
+
+ID: Q871
+Question: The first woman to win a Nobel prize was
+Answer: Marie Curie
+
+ID: Q872
+Question: In 2018 Alexandria Ocasio-Cortez is the youngest female ever to be a
+Answer: Member of US congress
+
+ID: Q873
+Question: Who was in 2014 the youngest person to win the Nobel Peace Price?
+Answer: Malala Yousafzai
+
+ID: Q874
+Question: Who founded the car manufacturer Tesla
+Answer: Elon Musk

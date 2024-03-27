@@ -1,0 +1,226 @@
+[
+    {
+        "question": "Jennifer Lawrence starred in which famous film series?",
+        "answer": "The Hunger Games"
+    },
+    {
+        "id": "Q10",
+        "question": "Do electric eels really produce electricity?",
+        "answer": "Yes"
+    },
+    {
+        "id": "Q11",
+        "question": "The duckbilled platypus is only native to?",
+        "answer": "Australia"
+    },
+    {
+        "id": "Q12",
+        "question": "The largest land mammal in the world is?",
+        "answer": "The elephant"
+    },
+    {
+        "id": "Q13",
+        "question": "The largest living bird in the world is?",
+        "answer": "The ostrich"
+    },
+    {
+        "id": "Q14",
+        "question": "Tigers are only native to?",
+        "answer": "Asia"
+    },
+    {
+        "id": "Q15",
+        "question": "What breed of dog has a black tongue?",
+        "answer": "Chow Chow"
+    },
+    {
+        "id": "Q1",
+        "question": "A baby cat is called?",
+        "answer": "A kitten"
+    },
+    {
+        "id": "Q242",
+        "question": "A herbivore eats?",
+        "answer": "Plants"
+    },
+    {
+        "id": "Q243",
+        "question": "A male sheep is called?",
+        "answer": "A ram"
+    },
+    {
+        "id": "Q244",
+        "question": "Orangutans are only native to?",
+        "answer": "Asia"
+    },
+    {
+        "id": "Q245",
+        "question": "The smallest bird in the world is?",
+        "answer": "A humming bird"
+    },
+    {
+        "id": "Q246",
+        "question": "A tadpole turns into a...?",
+        "answer": "Frog"
+    },
+    {
+        "id": "Q247",
+        "question": "The largest mammal in the world is?",
+        "answer": "The blue whale"
+    },
+    {
+        "id": "Q2",
+        "question": "A baby cow is called?",
+        "answer": "A calf"
+    },
+    {
+        "id": "Q391",
+        "question": "What is the fastest a race horse can run",
+        "answer": "55 mph / 88 km/h"
+    },
+    {
+        "id": "Q392",
+        "question": "An extinct bird often used as a symbol of human-induced extinction of species",
+        "answer": "Dodo"
+    },
+    {
+        "id": "Q393",
+        "question": "Which of these is not a mixed dog breed?",
+        "answer": "Siamese sausage dog"
+    },
+    {
+        "id": "Q394",
+        "question": "Which of these is NOT a horse",
+        "answer": "Folly"
+    },
+    {
+        "id": "Q395",
+        "question": "What is the hybrid breed made of Poodles and Labradors called?",
+        "answer": "Labradoodle"
+    },
+    {
+        "id": "Q396",
+        "question": "What is the world's fastest dog breed",
+        "answer": "Greyhound"
+    },
+    {
+        "id": "Q397",
+        "question": "How fast can a swallow fly?",
+        "answer": "60 km/h"
+    },
+    {
+        "id": "Q398",
+        "question": "A platypus is special because...",
+        "answer": "It has fur and lays eggs"
+    },
+    {
+        "id": "Q399",
+        "question": "What is the only bird capable of flying backwards?",
+        "answer": "Humming birds"
+    },
+    {
+        "id": "Q3",
+        "question": "A baby horse is called?",
+        "answer": "A foal"
+    },
+    {
+        "id": "Q400",
+        "question": "What colour is the polar bears' skin?",
+        "answer": "Black"
+    },
+    {
+        "id": "Q401",
+        "question": "Which animal does not have the ability to use tools?",
+        "answer": "Cat"
+    },
+    {
+        "id": "Q402",
+        "question": "How long can a snail sleep?",
+        "answer": "three years"
+    },
+    {
+        "id": "Q403",
+        "question": "What is the world's most endangered bird?",
+        "answer": "The giant ibis"
+    },
+    {
+        "id": "Q404",
+        "question": "What land animal can open its mouth the widest?",
+        "answer": "Hippo"
+    },
+    {
+        "id": "Q405",
+        "question": "What are jellyfish 95% made of?",
+        "answer": "Water"
+    },
+    {
+        "id": "Q406",
+        "question": "Which animal cannot jump?",
+        "answer": "Elephants"
+    },
+    {
+        "id": "Q407",
+        "question": "How many bones do sharks have?",
+        "answer": "zero"
+    },
+    {
+        "id": "Q408",
+        "question": "What was the lifespan of a Tyrannosaurus Rex?",
+        "answer": "between 20-30 years"
+    },
+    {
+        "id": "Q409",
+        "question": "What is the smallest breed of dogs?",
+        "answer": "chihuahua"
+    },
+    {
+        "id": "Q410",
+        "question": "Which is the largest member of cat family?",
+        "answer": "tiger"
+    },
+    {
+        "id": "Q411",
+        "question": "What is the only mammal that can't jump?",
+        "answer": "Elephant"
+    },
+    {
+        "id": "Q412",
+        "question": "Can frogs live in salt water?",
+        "answer": "No"
+    },
+    {
+        "id": "Q413",
+        "question": "What is the biggest animal in the world?",
+        "answer": "The blue whale"
+    },
+    {
+        "id": "Q414",
+        "question": "A full grown turkey has about how many feathers?",
+        "answer": "3500"
+    },
+    {
+        "id": "Q415",
+        "question": "Where is the heart of shrimp located?",
+        "answer": "in its head"
+    },
+    {
+        "id": "Q416",
+        "question": "How many toes do (most) cats have?",
+        "answer": "18"
+    },
+    {
+        "id": "Q417",
+        "question": "Which dinosaur is a herbivore?",
+        "answer": "Brontosaurus"
+    },
+    {
+        "id": "Q418",
+        "question": "What is the national animal of Scotland?",
+        "answer": "Unicorn"
+    },
+    {
+        "id": "Q419",
+        "question": "The largest non-extinct fish is",
+        "answer": "Whale shark"
+    }
+]
